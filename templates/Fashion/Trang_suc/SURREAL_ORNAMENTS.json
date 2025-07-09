@@ -1,0 +1,39 @@
+{
+  "name": "SURREAL_ORNAMENTS",
+  "category": "Fashion",
+  "product_type": "Trang_suc",
+  "style_tag": [],
+  "prompt_base": "Anti-timefold field. Light bends unnaturally around product, casting both forward and backward shadows. Background pulses slowly — like breathing fabric made of stars. Infinite staircase loops upon itself mid-air, Escher-style. The ring rests on a single hovering marble tile — which spins gently in place without support. Purple light leaks from invisible seams in space. None. The product is central, floating. However, a marble hand reaches out from a fold in reality, trying to grasp it — frozen mid-motion. 1 hero item: Amethyst-cut ring in twisted silver band  Shadow ring echo appears behind, delayed by 0.5s • Soft echo blur behind gemstone • Grid fracture under ring’s floating tile • Small tag reads “<TIME: FOLDED>” engraved on edge • Reflected silhouette shows a different version of the ring (glitch artifact) Shape: Spiral double-band with pronged gemstone mount Material: Rhodium-plated silver + precision-cut amethyst (oval 1.4ct) Key Feature: Asymmetrical tension setting — stone appears suspended in magnetic pressure",
+  "negative_prompt": "No linear lighting, no common background, no realism, no earthly location, no smiling people, no grounded physics.",
+  "model": "imagen4",
+  "dominant_colors": {
+    "main": "#1C1C1C",
+    "accent": "#9966CC"
+  },
+  "overlay": {
+    "text": {
+      "headline": {
+        "text_key": "main_text",
+        "font": "Futura-Bold.ttf",
+        "size": 28,
+        "color": "#9966CC",
+        "x": 100,
+        "y": 100
+      },
+      "cta": {
+        "text_key": "cta",
+        "font": "Futura-Regular.ttf",
+        "size": 20,
+        "color": "#1C1C1C",
+        "x": 100,
+        "y": 150
+      }
+    },
+    "logo": {
+      "x": 1400,
+      "y": 1300,
+      "width": 150,
+      "height": 50
+    }
+  }
+}

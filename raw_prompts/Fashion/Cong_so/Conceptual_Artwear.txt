@@ -1,0 +1,31 @@
+[Overall Atmosphere]: Absurdist stillness, controlled chaos with 5:1 lighting ratio; cold top light casting fractured shadows, museum-exhibit stillness.
+
+[Dominant Color]:
+Main: Dusty Cement Gray (#B2B2B2, 65%)
+Accent: Safety Red (#D72638, 20%)
+
+[General Environment]: Abstract office ruin — a deconstructed cubicle built from concrete slabs, scattered fluorescent light tubes on the floor, suspended ceiling panel floating mid-air.
+
+[Model Pose]: Androgynous Vietnamese model in her 30s, standing on one leg atop a broken desk, spine arched backwards unnaturally, tie draped over face, briefcase hanging from elbow, eyes closed.
+
+[Product Placement]:
+1 hero item (deconstructed gray power suit jacket with asymmetric hem)
+
+2 supporting pieces (crumpled red silk tie, pinstripe trousers with raw edge) — arranged in reverse-pyramid composition.
+
+[Detailed Product Description]:
+Shape: One-shouldered tailored blazer with exploded inner structure.
+Material: Stiff wool suiting fabric fused with resin panels.
+Key Feature: Fold-out lapel resembling architectural wings.
+
+[Supporting Elements]: Upside-down office chair bolted to wall, wall clock with melted face à la Dalí, floating copier paper caught in motion at 1/1000s.
+
+[Logo Placement]: Laser-engraved logo on inner lapel edge, 1.5cm long, subtle gloss finish.
+
+[Advertising Integration]:
+Main Text: “WHERE WORK BREAKS FORM” — in Times New Roman Italic, 28pt
+CTA: “See the Collapse Collection →” in Safety Red, underlined serif, top-left aligned.
+
+[Image Type]: Medium format scan simulation, Phase One IQ3 @ f/18, clarity edge mask, contrast-pushed to 40%, mild chromatic aberration for analog effect.
+
+[Negative Prompt]: No smiling model, no clean office, no modern furniture, no standard composition, no perfect symmetry, no casualwear.

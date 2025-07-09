@@ -1,0 +1,39 @@
+{
+  "name": "KINETIC_DOMAIN",
+  "category": "Fashion",
+  "product_type": "Sport",
+  "style_tag": [],
+  "prompt_base": "Suspended test chamber — gravity partially disabled. Particles float in air like frozen sparks. Motion-capture lasers slice through frame diagonally. Feels like time is between seconds. Void platform, mid-air. Model floats just above surface. Holographic terrain grid flickering beneath. Backdrop is pulsating black field with triangulated echo waves. Post-human android (non-gendered, translucent skin) in sprint pose, left foot bent forward, spine curved, arm mid-drive. Eyes emit slow glow. Muscle layers semi-transparent, visible under outfit. 1 hero item: kinetic active-core suit 2 supporting: external pulse leggings + forearm booster wraps Each item annotated with micro data-point overlay (zoomed) • Holographic arrows display energy flow from calf to shoulder • Inset scan of fiber tension matrix (right shoulder) • Foot pressure UI rings on ground • Heart rate waveform curves behind model • Floating panel reads: “Strain Index 87% – Calibrating…” Shape: Aerodynamic compression mapped to muscle direction Material: Reactive synth-weave + kinetic graphene bands Key Feature: Dual-core motion capacitor embedded in chest zone",
+  "negative_prompt": "No real-world gym, no soft fabric, no smiles, no nature, no retro, no normal humans, no realism.",
+  "model": "imagen4",
+  "dominant_colors": {
+    "main": "#2E2E2E",
+    "accent": "#FF3E3E"
+  },
+  "overlay": {
+    "text": {
+      "headline": {
+        "text_key": "main_text",
+        "font": "Futura-Bold.ttf",
+        "size": 28,
+        "color": "#FF3E3E",
+        "x": 100,
+        "y": 100
+      },
+      "cta": {
+        "text_key": "cta",
+        "font": "Futura-Regular.ttf",
+        "size": 20,
+        "color": "#2E2E2E",
+        "x": 100,
+        "y": 150
+      }
+    },
+    "logo": {
+      "x": 1400,
+      "y": 1300,
+      "width": 150,
+      "height": 50
+    }
+  }
+}

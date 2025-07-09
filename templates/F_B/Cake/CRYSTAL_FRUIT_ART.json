@@ -1,0 +1,39 @@
+{
+  "name": "CRYSTAL_FRUIT_ART",
+  "category": "F_B",
+  "product_type": "Cake",
+  "style_tag": [],
+  "prompt_base": "Hyper-still surrealism, confection frozen in time under a 6:1 lighting ratio; cold museum lighting casting crystal refractions, atmosphere of sacred preservation. Abstract patisserie relic room — fractured marble plinths, shards of frosted glass on floor, matte velvet backdrop with gentle folds, a suspended spoon casting soft diffraction. None. No human presence. The cake becomes the sole protagonist — elevated like an archaeological discovery or luxury gem. 1 hero item (multi-faceted crystal cake resembling a strawberry shortcake with translucent jelly-like layers)  2 supporting pieces (a halved mini tart with gem-like strawberry glaze, and a floating sugar shard) — arranged in an isosceles triangle of scattered light rays. Cracked porcelain dessert plate with golden rim, ghostlike silver fork hovering at 10°, trail of powdered sugar falling mid-air, stylized menu plaque with serif type etched in glass. Shape: Dome-shaped layered cake with beveled geometry and refractive sugar crust.   Material: Simulated crystalized fondant, edible jelly interior.   Key Feature: Embedded candied strawberry slices suspended mid-layer like frozen time bubbles.",
+  "negative_prompt": "No cartoon frosting, no human hand, no traditional pastry kitchen, no rustic style, no wooden surfaces, no pastel overuse, no blur, no food crumbs.",
+  "model": "imagen4",
+  "dominant_colors": {
+    "main": "#F7C9D3",
+    "accent": "#F1EFE7"
+  },
+  "overlay": {
+    "text": {
+      "headline": {
+        "text_key": "main_text",
+        "font": "Futura-Bold.ttf",
+        "size": 28,
+        "color": "#F1EFE7",
+        "x": 100,
+        "y": 100
+      },
+      "cta": {
+        "text_key": "cta",
+        "font": "Futura-Regular.ttf",
+        "size": 20,
+        "color": "#F7C9D3",
+        "x": 100,
+        "y": 150
+      }
+    },
+    "logo": {
+      "x": 1400,
+      "y": 1300,
+      "width": 150,
+      "height": 50
+    }
+  }
+}

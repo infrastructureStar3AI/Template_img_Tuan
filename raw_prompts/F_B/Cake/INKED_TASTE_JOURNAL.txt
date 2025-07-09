@@ -1,0 +1,41 @@
+[Overall Atmosphere]:
+Soft-side view, angled from 30° left. Golden hour light slanting in from the window. The cake is placed on a rustic wooden platform, surrounded by unfinished sketches – as if the artist is leaving the frame. The atmosphere is both classic and handmade.
+
+[Dominant Color]:
+Main: Buttery Beige (#E8DCC4, 60%)
+Accent: Ink Walnut (#4C3B2C, 20%)
+
+[General Environment]:
+Wooden studio table by window. Open sketchpad in corner, pencil lines unfinished. Hand-drawn sketch of the cake is clipped to the drawing board next to it – half of it left unfinished. A cup of coffee is slightly cold. A pen slowly dribbles ink.
+
+Props: lightly wrinkled canvas, stained hand towel, vase of dried flowers.
+
+[Model Pose]:
+None. (But implied presence: artist just stepped away.)
+
+[Product Placement]:
+1 hero item: strawberry shortcake – side view, placed in the middle of a round wooden platform
+2 supporting elements: pencil sketch (placed on the right, not yet finished) + cross-section sketch in faint ink floating behind the cake like a taste x-ray
+
+[Detailed Product Description]:
+Shape: Layered shortcake with whole strawberries visible
+Material: Soft sponge, whipped cream, glazed strawberry halves
+Key Feature: Half real – half illustrated layer system shown in faint perspective overlay (labeled: “air pocket zone”, “moist core”, “fruit tension line”)
+
+[Supporting Elements]:
+Pencil strokes spilling over the real cake, as if trying to draw the remaining flavor. A floating note (held horizontally by metal). The cake tilts slightly, creating a real shadow – the shadow is drawn again with soft pencil strokes.
+
+[Logo Placement]:
+Stick it to the corner of the sketchpad like a handmade label, next to the faint words "Study #09 - Strawberry"
+
+[Ad Elements]:
+Main Text: "Drawn in Layers. Remembered in Taste." (font: Libre Baskerville Bold Italic, 26pt, walnut ink)
+CTA: "Study the Slice →" (font: Lora Light Italic, beige tone, bottom-right of sketchpad)
+Logo: hand-inked monogram
+Badge: “Studio Note • Strawberry Shortcake 02” (bottom-left, pencil scribble style)
+
+[Image Type]:
+Leica Q3, 28mm, f/2. Natural light with golden tone. Slight desaturation, focus on texture of paper and sponge. Pencil overlay added digitally but looks analog. Shadow gradients manually painted in post.
+
+[Negative Prompt]:
+No vector icons, no commercial styling, no centered symmetry, no glossy props, no digital UI. Scene must feel like a real studio session caught mid-thought, where taste meets craft — and time pauses for flavor.

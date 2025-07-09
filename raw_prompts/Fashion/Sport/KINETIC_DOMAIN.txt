@@ -1,0 +1,47 @@
+[Overall Atmosphere]
+Suspended test chamber — gravity partially disabled. Particles float in air like frozen sparks. Motion-capture lasers slice through frame diagonally. Feels like time is between seconds.
+
+[Dominant Color]
+Main: Matte Graphite (#2E2E2E, 70%)
+Accent: Pulse Red (#FF3E3E, 20%)
+
+[General Environment]
+Void platform, mid-air. Model floats just above surface. Holographic terrain grid flickering beneath. Backdrop is pulsating black field with triangulated echo waves.
+
+[Model Pose]
+Post-human android (non-gendered, translucent skin) in sprint pose, left foot bent forward, spine curved, arm mid-drive. Eyes emit slow glow. Muscle layers semi-transparent, visible under outfit.
+
+[Product Placement]
+1 hero item: kinetic active-core suit
+2 supporting: external pulse leggings + forearm booster wraps
+Each item annotated with micro data-point overlay (zoomed)
+
+[Detailed Product Description]
+Shape: Aerodynamic compression mapped to muscle direction
+Material: Reactive synth-weave + kinetic graphene bands
+Key Feature: Dual-core motion capacitor embedded in chest zone
+
+[Supporting Elements]
+• Holographic arrows display energy flow from calf to shoulder
+• Inset scan of fiber tension matrix (right shoulder)
+• Foot pressure UI rings on ground
+• Heart rate waveform curves behind model
+• Floating panel reads: “Strain Index 87% – Calibrating…”
+
+[Logo Placement]
+
+Etched on motion capacitor center (front chest)
+
+Glitch-printed barcode running vertically on spine panel
+
+[Ad Elements]
+Main Text: "CALIBRATE YOUR CORE" (font: Orbitron Bold, pulse red)
+CTA: "Download motion protocol →" (embedded QR capsule, top-right HUD)
+Logo: Rotating holo-icon floating near model
+Badge: "V3_α MOTION SUIT" (white stamp under foot plane)
+
+[Image Type]
+Rendered in Unreal Engine-style 3D. Volumetric light. Depth blur on grid. Reflections are procedurally distorted. Clarity: 8K, slight static noise. Camera f/1.8, ISO simulated: 320.
+
+[Negative Prompt]
+No real-world gym, no soft fabric, no smiles, no nature, no retro, no normal humans, no realism.

@@ -1,0 +1,25 @@
+[Overall Atmosphere]: Noir cinematic with single-beam key light and ambient edge lighting (5:1 ratio).
+
+[Dominant Color]: Main: Obsidian Black (#0B0B0B, 65%), Accent: Reflective Silver (#C0C0C0, 20%).
+
+[General Environment]: Matte graphite wall with narrow beam spotlight, background smoke gradient 10%.
+
+[Model Pose]: Facing camera, tilt head 30° to side, glasses worn low on nose bridge, eyes visible through tinted lens.
+
+[Product Placement]: Hero item (sunglasses) on model's face + 2 supporting reflections (mirror + lens close-up).
+
+[Detailed Product Description]:
+Shape: Oversized aviator, angular lens cut.
+Material: Gradient-tinted polycarbonate with steel wireframe.
+Key Feature: Floating lens illusion with invisible nose bridge.
+
+[Supporting Elements]: Mirror fragment catching lens reflection, blown-out highlight on frame edge.
+
+[Logo Placement]: Etched subtly on lens corner (1.2cm), gloss-on-matte emboss.
+
+[Advertising Integration]:
+Main Text: "EYE CONTACT IS POWER" in Eurostile Extended 30pt (CTA: "Own the Glare →", metallic silver gradient).
+
+[Image Type]: RED Komodo 6K still @ f/2.0, mild motion blur on reflection, contrast-lifted shadows.
+
+[Negative Prompt]: Cliché beach scene, colorful backdrop, overexposure, smiling model, plastic look.

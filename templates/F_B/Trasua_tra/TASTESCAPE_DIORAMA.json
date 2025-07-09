@@ -1,0 +1,39 @@
+{
+  "name": "TASTESCAPE_DIORAMA",
+  "category": "F_B",
+  "product_type": "Trasua_tra",
+  "style_tag": [],
+  "prompt_base": "Lush miniature serenity — soft sunbeams through a matcha-colored canopy. 2:1 lighting ratio with ambient haze and soft side lighting from lower right, creating a dreamlike, early morning mist. The scene feels like a forest within a terrarium — detailed, controlled, and magically alive. A miniature grove built entirely from matcha elements: tree trunks shaped from stacked jelly cubes, leaves made of curled tea dust, boulders crafted from green tapioca. The central matcha latte cup rises like a sacred spring from the forest floor, surrounded by winding paths made from milk foam trails. Floating above it is a soft swirl of whipped cream resembling morning fog. (No human model.) The matcha latte cup sits slightly embedded in the soft mossy terrain. One trail of milk is seen cascading down from the edge of the cream swirl, creating a flowing stream through the forest floor. A cube of matcha jelly rests mid-fall from a tiny leaf canopy. 1 hero item (glass cup of iced matcha latte with visible green layers and milk clouds) 2 supporting pieces (floating jelly cube, tea leaf sprig growing from the ground) — arranged in a subtle triangle, drawing the eye from foreground to cup to mist Tiny pebbles made from translucent jelly; moss-like textures crafted from whipped matcha; mini deer figurine drinking from a puddle of milk; a bridge made from biscuit stick arches connects two sides of the grove Shape: Rounded glass cup with thick base, lidless Material: Smooth borosilicate glass, showing layered liquid: matcha at base, milk in mid, soft whipped foam on top Key Feature: A slow spiral of milk foam dissolving into green tea like a rising fog; tiny drops of condensation form rivers on the outer wall",
+  "negative_prompt": "No plain tabletop, no hand, no splash, no pastel backgrounds, no café scene, no modern clean look, no high contrast",
+  "model": "imagen4",
+  "dominant_colors": {
+    "main": "#7BA05B",
+    "accent": "#F9F6F2"
+  },
+  "overlay": {
+    "text": {
+      "headline": {
+        "text_key": "main_text",
+        "font": "Futura-Bold.ttf",
+        "size": 28,
+        "color": "#F9F6F2",
+        "x": 100,
+        "y": 100
+      },
+      "cta": {
+        "text_key": "cta",
+        "font": "Futura-Regular.ttf",
+        "size": 20,
+        "color": "#7BA05B",
+        "x": 100,
+        "y": 150
+      }
+    },
+    "logo": {
+      "x": 1400,
+      "y": 1300,
+      "width": 150,
+      "height": 50
+    }
+  }
+}

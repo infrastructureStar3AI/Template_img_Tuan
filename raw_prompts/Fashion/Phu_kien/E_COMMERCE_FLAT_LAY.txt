@@ -1,0 +1,39 @@
+[Overall Atmosphere]:
+Clean flat lay. Top-down angle, soft shadow at 2:00 direction. Studio lighting with diffused fill. Minimal, premium, product-focused.
+
+[Dominant Color]:
+Main: Warm Taupe (#A39887, 60%)
+Accent: Deep Charcoal (#333333, 20%)
+
+[General Environment]:
+Matte ivory backdrop. A faint linen texture visible. Subtle props: folded vintage newspaper (bottom-left), leather gloves (top-right corner), and a classic pocket watch placed partly out of frame.
+
+[Model Pose]:
+None.
+
+[Product Placement]:
+1 hero item: men’s wool fedora hat (deep charcoal)
+2 supporting pieces: vintage gloves + folded newspaper — diagonally placed to balance layout
+
+[Detailed Product Description]:
+Shape: Medium-brim fedora with pinched crown
+Material: 100% Merino wool felt
+Key Feature: Silk ribbon band with subtle tone-on-tone stitching and branded pin
+
+[Supporting Elements]:
+Soft-edged shadows (1/250s), crisp edge highlights on fedora brim, texture of wool clearly visible. Composition rule: centered hero item with L-shaped framing.
+
+[Logo Placement]:
+Branded pin on ribbon band, visible from above (0.8cm). No overlay.
+
+[Ad Elements]:
+Main Text: "Timeless Silhouette" (font: Garamond Bold, 22pt, charcoal)
+CTA: "Shop the Collection →" (font: Lato Light Italic, taupe, placed bottom-right)
+Logo: centered top
+Badge: “F/W Edition • 100% Wool” in serif small-caps (bottom-left corner)
+
+[Image Type]:
+Canon EOS R6, 50mm, f/5.6. True color balance, slightly warm white point. Light sharpened to enhance texture, no vignette.
+
+[Negative Prompt]:
+No harsh reflections, no wrinkles on backdrop, no extreme props, no clutter, no overhead glare, no unbalanced layout.

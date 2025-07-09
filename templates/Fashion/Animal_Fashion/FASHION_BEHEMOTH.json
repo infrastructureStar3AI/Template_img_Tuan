@@ -1,0 +1,39 @@
+{
+  "name": "FASHION_BEHEMOTH",
+  "category": "Fashion",
+  "product_type": "Animal_Fashion",
+  "style_tag": [],
+  "prompt_base": "Cinematic editorial on vast white salt flat under crisp morning sun. The scale is surreal: a giant poodle, 10× taller than the human. Shadows stretch long across cracked salt texture. Mood is still and reverent — like standing before a fashion deity. Endless salt flat with no horizon clutter. Distant mountains far behind. Sky gradient from icy blue at top to warm white near horizon. Flat surface reflects a faint silhouette of the animal. Poodle:  Standing tall, head turned slightly toward camera  Massive proportions — 6 meters tall  Eyes calm, fur windswept, cloak trailing dramatically  Legs firmly planted like pillars  Human model:  Dressed in matte black modern suit, slick hair  Standing by the front paw, no taller than the joint  Holding leash like a ceremonial ribbon  Posture upright, like a high-fashion escort 1 hero item: Oversized couture pet cloak in structured metallic red  Optional: chrome collar with large engraved pendant The leash curves upward like a black line drawing Cape edges catch wind, creating clean movement lines Footprints of the poodle create scale marks behind Shape: Asymmetric high-shoulder cloak with soft flare, hem stops mid-leg  Material: Laminated silk-metal blend with interior quilt lining  Key Feature: Folded geometric shoulder, clasped with single chrome orb",
+  "negative_prompt": "No pastel, no cartoon, no biped pose, no smiling, no floating objects, no interior scene, no toy scale mismatch",
+  "model": "imagen4",
+  "dominant_colors": {
+    "main": "#F6F6F6",
+    "accent": "#C1121F"
+  },
+  "overlay": {
+    "text": {
+      "headline": {
+        "text_key": "main_text",
+        "font": "Futura-Bold.ttf",
+        "size": 28,
+        "color": "#C1121F",
+        "x": 100,
+        "y": 100
+      },
+      "cta": {
+        "text_key": "cta",
+        "font": "Futura-Regular.ttf",
+        "size": 20,
+        "color": "#F6F6F6",
+        "x": 100,
+        "y": 150
+      }
+    },
+    "logo": {
+      "x": 1400,
+      "y": 1300,
+      "width": 150,
+      "height": 50
+    }
+  }
+}

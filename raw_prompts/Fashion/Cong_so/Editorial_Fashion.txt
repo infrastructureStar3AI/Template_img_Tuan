@@ -1,0 +1,30 @@
+[Overall Atmosphere]: Precision-lit studio setup with 4:1 lighting ratio, high contrast rim light for sharp garment definition, clean editorial mood.
+
+[Dominant Color]:
+Main: Graphite Black (#1C1C1C, 70%)
+Accent: Platinum Silver (#E5E4E2, 20%)
+
+[General Environment]: Seamless matte black cyclorama wall, high-gloss polished floor for subtle reflections, controlled haze at 10% to enhance depth.
+
+[Model Pose]: Vietnamese female model, standing strong in contrapposto, arms down with hands relaxed at sides, shoulders squared, chin up 10°, neutral confident gaze.
+
+[Product Placement]:
+1 hero item (graphite oversized power blazer with cinched belt)
+2 supporting pieces (straight-leg trousers, silver satin shirt) in a structured vertical layout, slight angle for dynamism.
+
+[Detailed Product Description]:
+Shape: Boxy shoulder, tapered waist, extended hemline.
+Material: High-density suiting wool with silk blend.
+Key Feature: Oversized chrome buckle belt and inner contrast lapel.
+
+[Supporting Elements]: Raised chrome pedestal under one foot, folded reflective backdrop panel at 30°, wind fluttering shirt hem (captured at 1/1000s), soft fog glow around silhouette.
+
+[Logo Placement]: Laser-etched onto chrome buckle, centered, 2cm wide, subtle embossed effect.
+
+[Advertising Integration]:
+Main Text: "OWN THE ROOM" — in Bodoni Bold, 26pt uppercase
+CTA: “The Executive Line →” in Platinum gradient, small caps, positioned bottom-right.
+
+[Image Type]: Phase One XT @ f/13 for maximum garment sharpness, 50MP output, editorial retouching with 30% skin softness, background mask clean.
+
+[Negative Prompt]: No environmental clutter, no natural daylight, no casual pose, no western model, no chromatic aberration, no softness, no flat colors, no smudging.

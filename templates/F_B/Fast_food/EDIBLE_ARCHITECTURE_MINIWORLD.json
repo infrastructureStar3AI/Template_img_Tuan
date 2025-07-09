@@ -1,0 +1,39 @@
+{
+  "name": "EDIBLE_ARCHITECTURE_MINIWORLD",
+  "category": "F_B",
+  "product_type": "Fast_food",
+  "style_tag": [],
+  "prompt_base": "whimsical anime-style food building illustration, soft warm tone, fantasy miniworld a mini hotdog-shaped shop in a fantasy town made of food, placed on soft beige ground with playful shadows no humans, just tiny cartoon chefs and mini customers around hotdog reimagined as a kiosk – bun becomes the roof and counter, sausage part opens up as serving hatch, mustard lines curve like decorative banners ketchup bottle mailbox, tray of buns, menu chalkboard, animated steam lines from the sausage chimney toasted hotdog bun used as a house roof, sausage becomes the wall, windows shaped like pickle slices, ketchup/mustard dripping like festive banners; entrance flanked by upright fries; signage held by skewers with red pepper icons",
+  "negative_prompt": "no realism, no photos, no 3D, no harsh lighting, no crowded background",
+  "model": "imagen4",
+  "dominant_colors": {
+    "main": "#CCCCCC",
+    "accent": "#FF0000"
+  },
+  "overlay": {
+    "text": {
+      "headline": {
+        "text_key": "main_text",
+        "font": "Futura-Bold.ttf",
+        "size": 28,
+        "color": "#FF0000",
+        "x": 100,
+        "y": 100
+      },
+      "cta": {
+        "text_key": "cta",
+        "font": "Futura-Regular.ttf",
+        "size": 20,
+        "color": "#CCCCCC",
+        "x": 100,
+        "y": 150
+      }
+    },
+    "logo": {
+      "x": 1400,
+      "y": 1300,
+      "width": 150,
+      "height": 50
+    }
+  }
+}

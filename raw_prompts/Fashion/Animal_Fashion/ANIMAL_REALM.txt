@@ -1,0 +1,41 @@
+[Overall Atmosphere]
+Soft café lighting with warm morning glow. Ambient light through window blinds. Quiet, cozy European café atmosphere with wooden textures and plants.
+
+[Dominant Color]
+Main: Coffee Brown (#6F4E37)
+Accent: Forest Green (#2D5E3E)
+
+[General Environment]
+Compact coffee counter scaled to dog size. Wooden bar surface, espresso machine, milk jugs, chalkboard menu in background. Floor tiled with matte ceramic. Natural clutter of mugs and cloths.
+
+[Model Pose]
+Golden Retriever stands behind the café counter on raised rear legs, front paws resting naturally on the bar. Head slightly tilted toward a steaming cup beside him. Eyes calm, tongue slightly out, friendly expression — captured mid-service gesture.
+
+[Product Placement]
+1 hero item: custom-fit barista apron (coffee-brown waxed canvas)
+
+2 supporting items: collar towel loop + utility pouch at side hip
+
+[Detailed Product Description]
+Shape: Full chest coverage, neck loop and belly strap tailored for canine body
+Material: Waxed canvas with soft cotton lining
+Key Feature: Heat-resistant front panel, quick-release strap under belly, removable side pouch
+
+[Supporting Elements]
+Mini steaming pitcher, stack of paw-sized ceramic cups, chalkboard menu with “Pupresso / Tail Latte”, branded cloth napkin
+
+[Logo Placement]
+Leather patch logo stitched at lower right apron corner
+Sub logo embossed on collar loop button
+
+[Advertising Integration]
+Main text in image: “CRAFTED FOR THE CAFE CROWD.”
+Font: Serif Bold, 26pt, coffee brown, bottom left
+CTA: “Browse the Workwear Pawtisserie Line →”
+Font: Sans-serif, 16pt, forest green, bottom right
+
+[Image Type]
+DSLR, 50mm lens @ f/2.5, warm tone, slight steam blur near cup, sharp focus on apron texture and dog’s expression
+
+[Negative Prompt]
+No human costumes, no two-leg walking pose without realism, no cartoon props, no human faces, no pastel toy styles, no floating text

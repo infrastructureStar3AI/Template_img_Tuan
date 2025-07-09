@@ -1,0 +1,39 @@
+{
+  "name": " STUDIO_OBJECT_FORMALITY",
+  "category": "Fashion",
+  "product_type": "Phu_kien",
+  "style_tag": [],
+  "prompt_base": "Amber-hued lighting with soft directional shadows. Faint haze, as if seen through aged glass. Still, intimate, 1980s editorial tone. Vintage walnut table, ivory lace cloth loosely draped. Aged burgundy velvet backdrop, light wrinkles retained. Gentle film-like halation on highlights. Female model (Caucasian, early 40s), curled auburn bob haircut, seated in front of table. Left elbow on surface, hand gently supporting cheek. Wearing gloves, right hand resting atop left wrist. Slight smile, chin tilted 5° down, eyes gazing softly off-frame. 1 hero item: pair of vintage leather gloves (burnt sienna) 2 supporting pieces: compact brass mirror + folded handkerchief (burgundy, floral embroidery) Soft specular reflection from brass mirror onto gloves, lace folds catching ambient shadow, handkerchief corner peeking slightly. Light from 45° right. Shape: Wrist-length gloves with curved cuffs Material: Aged calfskin leather, matte texture Key Feature: Fine hand-stitched detailing, inner monogram “A” in blind emboss",
+  "negative_prompt": "No plastic, no neon, no digital props, no modern jewelry, no artificial gloss, no high contrast.",
+  "model": "imagen4",
+  "dominant_colors": {
+    "main": "#8A4B2A",
+    "accent": "#5C4033"
+  },
+  "overlay": {
+    "text": {
+      "headline": {
+        "text_key": "main_text",
+        "font": "Futura-Bold.ttf",
+        "size": 28,
+        "color": "#5C4033",
+        "x": 100,
+        "y": 100
+      },
+      "cta": {
+        "text_key": "cta",
+        "font": "Futura-Regular.ttf",
+        "size": 20,
+        "color": "#8A4B2A",
+        "x": 100,
+        "y": 150
+      }
+    },
+    "logo": {
+      "x": 1400,
+      "y": 1300,
+      "width": 150,
+      "height": 50
+    }
+  }
+}

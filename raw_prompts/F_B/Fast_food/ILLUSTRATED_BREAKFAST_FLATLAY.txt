@@ -1,0 +1,21 @@
+[Overall Atmosphere]: bold flat-style food poster illustration, dynamic composition with emphasis on crave appeal
+
+[Dominant Color]: golden yellow, red, and toasted brown
+
+[General Environment]: fiery red background with sunburst radial rays emphasizing the center burger
+
+[Model Pose]: no human model, the burger is floating mid-air with slight tilt, ingredients flying around it
+
+[Product Placement]: grilled beef cheeseburger heroically levitating at the center, layers exposed
+
+[Detailed Product Description]: towering beef cheeseburger with sesame seed bun, melted cheddar cheese dripping over flame-grilled patty, lettuce, tomato, red onion slices, and smoky sauce – all illustrated in bold, clean vector style with juicy textures and vivid contrasts
+
+[Supporting Elements]: flying cheese strips, ketchup and mustard splashes, lettuce leaves twisting mid-air, glowing aura behind the burger, dynamic motion lines
+
+[Logo Placement]: lower right corner, clean white logo of the fast food brand on a red background
+
+[Ad Elements]: large bold headline “MEGA BITE!” across the top, sub-headline “Extra Juicy. Extra Bold.” underneath, small sticker label “New!” in the top left corner, price tag in bright orange circle
+
+[Image Type]: vector illustration poster, clean cartoon style with stylized realism and high energy
+
+[Negative Prompt]: no realism, no human hand, no photo textures, no soft gradients

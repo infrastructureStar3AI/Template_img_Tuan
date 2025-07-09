@@ -1,0 +1,31 @@
+[Overall Atmosphere]: Hyper-still surrealism, confection frozen in time under a 6:1 lighting ratio; cold museum lighting casting crystal refractions, atmosphere of sacred preservation.
+
+[Dominant Color]:  
+Main: Rose Quartz Pink (#F7C9D3, 60%)  
+Accent: Champagne White (#F1EFE7, 25%)
+
+[General Environment]: Abstract patisserie relic room — fractured marble plinths, shards of frosted glass on floor, matte velvet backdrop with gentle folds, a suspended spoon casting soft diffraction.
+
+[Model Pose]: None. No human presence. The cake becomes the sole protagonist — elevated like an archaeological discovery or luxury gem.
+
+[Product Placement]:  
+1 hero item (multi-faceted crystal cake resembling a strawberry shortcake with translucent jelly-like layers)
+
+2 supporting pieces (a halved mini tart with gem-like strawberry glaze, and a floating sugar shard) — arranged in an isosceles triangle of scattered light rays.
+
+[Detailed Product Description]:  
+Shape: Dome-shaped layered cake with beveled geometry and refractive sugar crust.  
+Material: Simulated crystalized fondant, edible jelly interior.  
+Key Feature: Embedded candied strawberry slices suspended mid-layer like frozen time bubbles.
+
+[Supporting Elements]: Cracked porcelain dessert plate with golden rim, ghostlike silver fork hovering at 10°, trail of powdered sugar falling mid-air, stylized menu plaque with serif type etched in glass.
+
+[Logo Placement]: Debossed logo on cake base edge, tone-on-tone gloss only visible at light tilt.
+
+[Advertising Integration]:  
+Main Text: “THE MEMORY OF SWEETNESS” — in Baskerville Italic, 30pt  
+CTA: “Unveil the Crystal Confectionery →” in soft pink serif, bottom center aligned.
+
+[Image Type]: Medium format render emulation, f/16 with wide depth of field, chroma diffusion turned on, sharp glass caustic shadow detail, 3D raytraced sugar particles.
+
+[Negative Prompt]: No cartoon frosting, no human hand, no traditional pastry kitchen, no rustic style, no wooden surfaces, no pastel overuse, no blur, no food crumbs.

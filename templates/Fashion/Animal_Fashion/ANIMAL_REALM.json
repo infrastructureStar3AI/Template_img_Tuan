@@ -1,0 +1,39 @@
+{
+  "name": "ANIMAL_REALM",
+  "category": "Fashion",
+  "product_type": "Animal_Fashion",
+  "style_tag": [],
+  "prompt_base": "Soft café lighting with warm morning glow. Ambient light through window blinds. Quiet, cozy European café atmosphere with wooden textures and plants. Compact coffee counter scaled to dog size. Wooden bar surface, espresso machine, milk jugs, chalkboard menu in background. Floor tiled with matte ceramic. Natural clutter of mugs and cloths. Golden Retriever stands behind the café counter on raised rear legs, front paws resting naturally on the bar. Head slightly tilted toward a steaming cup beside him. Eyes calm, tongue slightly out, friendly expression — captured mid-service gesture. 1 hero item: custom-fit barista apron (coffee-brown waxed canvas)  2 supporting items: collar towel loop + utility pouch at side hip Mini steaming pitcher, stack of paw-sized ceramic cups, chalkboard menu with “Pupresso / Tail Latte”, branded cloth napkin Shape: Full chest coverage, neck loop and belly strap tailored for canine body Material: Waxed canvas with soft cotton lining Key Feature: Heat-resistant front panel, quick-release strap under belly, removable side pouch",
+  "negative_prompt": "No human costumes, no two-leg walking pose without realism, no cartoon props, no human faces, no pastel toy styles, no floating text",
+  "model": "imagen4",
+  "dominant_colors": {
+    "main": "#6F4E37",
+    "accent": "#2D5E3E"
+  },
+  "overlay": {
+    "text": {
+      "headline": {
+        "text_key": "main_text",
+        "font": "Futura-Bold.ttf",
+        "size": 28,
+        "color": "#2D5E3E",
+        "x": 100,
+        "y": 100
+      },
+      "cta": {
+        "text_key": "cta",
+        "font": "Futura-Regular.ttf",
+        "size": 20,
+        "color": "#6F4E37",
+        "x": 100,
+        "y": 150
+      }
+    },
+    "logo": {
+      "x": 1400,
+      "y": 1300,
+      "width": 150,
+      "height": 50
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "KIDS_VS_GIANT",
+  "category": "Fashion",
+  "product_type": "Fashion_Kid",
+  "style_tag": [],
+  "prompt_base": "Playful and cinematic — the child is inside a gigantic version of a modern living room. The floor is a textured rug with LEGO-sized fibers. A pair of adult sneakers (size 45) stands like buildings next to him. Soft afternoon sunlight enters from a high, out-of-frame window, casting long shadows. The “sneaker street” runs between two giant shoes. In the background: a tipped-over soda can the size of a trash bin. A LEGO brick acts as a bench. A coiled phone cable snakes across the floor like a rope. A sock hangs from a chair leg like a tarp. The child appears like a tiny explorer in an urban canyon made of house items. Child stands confidently with one foot resting on a coaster (used like a pedestal), hands in hoodie pockets, head tilted slightly with a grin. Hoodie bunched slightly at waist, sleeves pushed up. Lighting highlights fabric texture. Hero item: Oversized-fit hoodie with kangaroo pocket, in olive green Supporting: Jogger pants with ribbed cuffs and side patch pockets; canvas slip-ons with blocky sole Accessories: Small red crossbody pouch worn diagonally across chest Shoelaces as climbing ropes in background A LEGO minifig on the floor pointing upward Soda can lid reflecting light like a streetlamp Shape: Relaxed, boxy silhouette Material: Cotton-blend fleece (hoodie), midweight jersey knit (pants) Key Feature: “Explorer ID” patch on sleeve Customizable velcro patch on chest pocket Ribbed cuffs and drop-shoulder design for comfort",
+  "negative_prompt": "Standard child portrait, blank white background, minimal props, clean empty studio, pastel lighting, neutral faces, symmetrical framing",
+  "model": "imagen4",
+  "dominant_colors": {
+    "main": "#6A7F5F",
+    "accent": "#B0413E"
+  },
+  "overlay": {
+    "text": {
+      "headline": {
+        "text_key": "main_text",
+        "font": "Futura-Bold.ttf",
+        "size": 28,
+        "color": "#B0413E",
+        "x": 100,
+        "y": 100
+      },
+      "cta": {
+        "text_key": "cta",
+        "font": "Futura-Regular.ttf",
+        "size": 20,
+        "color": "#6A7F5F",
+        "x": 100,
+        "y": 150
+      }
+    },
+    "logo": {
+      "x": 1400,
+      "y": 1300,
+      "width": 150,
+      "height": 50
+    }
+  }
+}

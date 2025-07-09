@@ -1,0 +1,39 @@
+[Overall Atmosphere]:
+Misty autumn calm, evoking the quiet elegance of a rural Japanese orchard at dusk. Soft diffused light caresses the edges of each slice, with a dreamlike, slow-motion quality. Everything feels preserved in a moment of serene autumn beauty, like the brush strokes of a ukiyo-e.
+
+[Dominant Color]:
+Main: Tangerine Orange (#FFAA5E, 60%)
+Accent: Frosted White (#F2F8F6, 25%)
+
+[General Environment]:
+Delicate, parchment-like background resembling aged washi. A rustic, minimal dessert arrangement floats, centered against the gentle backdrop of autumn branches, glowing tangerine citrus, and scattered dried leaves. The composition looks like an artful tea house flyer from the Edo period, framed by warm golden light.
+
+[Model Pose]:
+No human model. A perfect round fruit cake is presented centrally, with the cake sliced into revealing its tangy interior layers. A single, delicate fork rests gently across the edge of the plate. The background is filled with soft autumn leaves drifting lazily toward the bottom.
+
+[Product Placement]:
+1 hero item (sliced orange-cream fruit cake with layers of citrus custard, topped with crystallized candied tangerine peel and dusted with powdered sugar)
+2 supporting pieces (a mini slice of dappled cake on a simple ceramic plate, fresh orange segment for garnish)
+— loosely arranged with a natural diagonal line, creating an organic yet purposeful aesthetic
+
+[Detailed Product Description]:
+Shape: Round, slightly fluffy fruit cake with a cross-section view showing visible layers of smooth custard, airy sponge, and zesty citrus filling.
+Material: Soft sponge cake with layers of citrus-infused cream, fresh orange zest, and candied tangerine peels. Topped with light powdered sugar and garnished with a few fragrant orange segments.
+Key Feature: A thin layer of orange custard visible through the slice, with the natural shine of the orange slices catching the light like autumn sunlight.
+
+[Supporting Elements]:
+Tangerine slices scattered gracefully across the cake, with small glistening droplets of syrup. Autumn leaves from nearby trees fall softly around the plate, creating movement within the static scene. A faint translucent mist hovers, suggesting a crisp autumn evening breeze.
+
+[Logo Placement]:
+A red circular “hanko” seal with the brand name etched inside. Positioned at the bottom-right of the page, the logo echoes traditional Japanese branding, with ink-like finesse.
+
+[Advertising Integration]:
+Main Text: 「秋の風」– “Autumn Breeze”
+— in large, brushstroke calligraphy with gentle orange gradient, placed diagonally alongside the cake
+CTA: “Taste the Season’s Sweets →” in soft serif font, underneath the main text, nestled between falling leaves
+
+[Image Type]:
+2D Japanese fruit dessert poster, watercolor style, capturing the natural beauty of autumn fruit. Subtle blending and gradient effects, balanced composition with clean, soft edges. The image has a soft, dreamy texture that invokes the essence of a traditional Japanese scroll.
+
+[Negative Prompt]:
+No photo-realism, no contemporary furniture, no modern or metallic props, no clutter, no bold or aggressive fonts, no non-Japanese elements, no urban scenes

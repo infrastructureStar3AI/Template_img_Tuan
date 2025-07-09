@@ -1,0 +1,92 @@
+[Overall Atmosphere]
+Silent arctic void. Frost particles suspended midair.
+Key lighting: Cyan rim light from behind glacier wall (3:1), high-pass fill from front.
+Color temperature: cold, sterile, distant.
+
+[Dominant Color]
+Main: Glacier Blue (#C6EAF5, 60%)
+Accent: Diamond I[Overall Atmosphere]:
+Soft diffused studio lighting, calm and clean tone. No harsh shadows. Editorial, high-end presentation.
+
+[Dominant Color]:
+Main: Porcelain White (#F8F8F8, 65%)
+Accent: Brushed Platinum (#E5E4E2, 25%)
+
+[General Environment]:
+Folded matte paper structure on neutral table surface, seamless background, no texture distractions.
+
+[Model Pose]:
+None.
+
+[Product Placement]:
+1 hero item (platinum ring) + 2 supporting pieces (ear studs, fine chain bracelet), symmetrically aligned on paper folds, front-left focus.
+
+[Detailed Product Description]:
+Shape: Rounded square band with low dome.
+Material: Polished platinum.
+Key Feature: Micro-pavé stones across top face, hand-set.
+
+[Supporting Elements]:
+Soft cast shadow, diffused white card reflection on left edge, focused depth @ f/5.6.
+
+[Logo Placement]:
+Debossed logo on back paper fold, 1cm wide, centered.
+
+[Ad Elements]:
+Main Text: "Precision in Simplicity" (font: Neue Haas Grotesk).
+CTA: "Browse the Collection →" (QR code).
+Logo:
+Badge: "New Arrival" stamp.
+
+[Image Type]:
+Phase One IQ4 @ f/5.6, true neutral grade, minimal retouching, 100% studio lighting.
+
+[Negative Prompt]:
+No clutter, no hand model, no reflections, no color distractions, no strong textures, no off-angle shots.ce (#F8F9FA, 25%)
+
+[General Environment]
+Two vertical translucent ice slabs form a narrow crevice.
+The necklace floats in the gap — gently rotated, caught mid-freeze.
+Background: shimmering frozen mist, faint aurora swirls far behind.
+
+[Model Pose]
+No human model.
+Necklace floats with natural arc, pendant facing forward.
+One crystal droplet forms mid-air near pendant tip, just before contact.
+
+[Product Placement]
+1 hero item: Silver necklace with raw aquamarine pendant
+2 supporting:
+
+Frost thread hanging naturally from clasp
+
+Tiny shard of cracked ice reflecting chain texture
+
+[Detailed Product Description]
+Shape: Slim, minimal chain (42cm), single gemstone pendant (irregular cut)
+Material: Rhodium-plated silver with aquamarine
+Key Feature: Pendant encased in thin frost shell — semi-transparent effect
+
+[Supporting Elements]
+• Mist curl wrapping softly around pendant (captured at 1/200s)
+• Lens flare through gemstone facets
+• Thin frost line sketching onto nearest ice wall
+• Subtle tilt in chain mimics wind pressure
+
+[Logo Placement]
+Engraved logo on back ice slab — barely visible, lit indirectly by chain reflection
+Alternate: frozen into mist above chain
+
+[Ad Elements]
+Main Text: "SUSPENDED IN SILENCE" (font: Optima Medium Italic, 28pt, Diamond Ice)
+CTA: "Discover the frost within." (Bottom-right corner, minimalist sans-serif, QR code integrated into ice crack pattern)
+Logo: Center-top, sharp serif in silver
+Badge: Optional — "GLACIA FINE JEWELRY" stamp, semi-transparent
+
+[Image Type]
+Macro lens @ f/2.8, 1/200s, studio fog layer simulated
+Digital tilt-shift, post-process frost grain, clarity boost on gem only
+Color grade: cyan-teal emphasis, blacks slightly lifted
+
+[Negative Prompt]
+No human figure, no gold tones, no firelight, no studio background, no cluttered props, no softness on product edge

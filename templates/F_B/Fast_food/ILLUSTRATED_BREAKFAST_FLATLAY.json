@@ -1,0 +1,39 @@
+{
+  "name": "ILLUSTRATED_BREAKFAST_FLATLAY",
+  "category": "F_B",
+  "product_type": "Fast_food",
+  "style_tag": [],
+  "prompt_base": "bold flat-style food poster illustration, dynamic composition with emphasis on crave appeal fiery red background with sunburst radial rays emphasizing the center burger no human model, the burger is floating mid-air with slight tilt, ingredients flying around it grilled beef cheeseburger heroically levitating at the center, layers exposed flying cheese strips, ketchup and mustard splashes, lettuce leaves twisting mid-air, glowing aura behind the burger, dynamic motion lines towering beef cheeseburger with sesame seed bun, melted cheddar cheese dripping over flame-grilled patty, lettuce, tomato, red onion slices, and smoky sauce – all illustrated in bold, clean vector style with juicy textures and vivid contrasts",
+  "negative_prompt": "no realism, no human hand, no photo textures, no soft gradients",
+  "model": "imagen4",
+  "dominant_colors": {
+    "main": "#CCCCCC",
+    "accent": "#FF0000"
+  },
+  "overlay": {
+    "text": {
+      "headline": {
+        "text_key": "main_text",
+        "font": "Futura-Bold.ttf",
+        "size": 28,
+        "color": "#FF0000",
+        "x": 100,
+        "y": 100
+      },
+      "cta": {
+        "text_key": "cta",
+        "font": "Futura-Regular.ttf",
+        "size": 20,
+        "color": "#CCCCCC",
+        "x": 100,
+        "y": 150
+      }
+    },
+    "logo": {
+      "x": 1400,
+      "y": 1300,
+      "width": 150,
+      "height": 50
+    }
+  }
+}

@@ -1,0 +1,43 @@
+[Overall Atmosphere]: humorous parody of the painting "American Gothic", midwestern farmhouse tone combined with absurd fast food elements, warm muted daylight with slight desaturation
+
+[Dominant Color]: faded denim blue, muted beige, dark brown wood, with visual contrast from fast food colors — ketchup red, cheese yellow, soda black
+
+[General Environment]: rural American farmhouse setting faithfully recreated in background — wooden house with gothic window, grey cloudy sky, wooden fence partially visible
+
+[Model Pose]: same pose as original painting — a stern-faced man in overalls holding a pitchfork, standing beside a woman in dark apron dress — but now they both hold fast food items in deadpan seriousness
+
+[Product Placement]:  
+- The man holds a **giant cheeseburger impaled on the pitchfork**, centered and straight, oozing with melted cheese and sauce  
+- The woman clutches a **branded fast food paper bag** with both hands at her waist level — the top of a fries box and a drink cup poking out
+
+[Detailed Product Description]:  
+- **Burger**: triple-stack beef burger with melted cheddar, lettuce, tomato, and ketchup visibly dripping from the sides, sesame bun slightly uneven, a bite taken from the top layer  
+- **Fries**: sticking out of red paper box, some tilted, textures clearly defined with crisp ends  
+- **Drink**: translucent plastic soda cup with branded logo, a tilted red straw and condensation droplets on surface  
+- **Paper Bag**: wrinkled kraft paper texture with oil spots, printed logo and slogan on front
+
+[Supporting Elements]:  
+- Man’s denim overalls have subtle **sauce splatter stains**  
+- Woman’s collar now subtly patterned with **mini burgers and fries icons**  
+- A small ketchup packet lies on the ground near their feet  
+- Background house has a neon fast food **"Drive-Thru"** sign hanging under the gothic window
+
+[Logo Placement]:  
+- Brand logo printed clearly on both the paper bag and soda cup  
+- Subtly incorporated on the burger wrapping sticking out from pitchfork
+
+[Ad Elements]:  
+- A museum-style wall label reads:  
+  **“American Fast Food – From Grant Wood to Grand Combo – 129k”**  
+- Optional header text overlay in painting corner:  
+  **“Tradition Meets Taste”** in old-style serif font  
+- Tagline along the bottom edge:  
+  **“Now serving culture since 1930.”**
+
+[Image Type]:  
+- Digital parody illustration of a classic American painting  
+- Maintains oil painting brush texture, slightly aged tone, soft light falloff  
+- Characters' expressions remain serious and stoic, enhancing ironic contrast
+
+[Negative Prompt]:  
+- No modern background, no photographic realism, no cartoon exaggeration, no pop art style, no anime or chibi rendering, no flat lay food styling

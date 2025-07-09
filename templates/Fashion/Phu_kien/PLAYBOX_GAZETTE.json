@@ -1,0 +1,39 @@
+{
+  "name": "PLAYBOX_GAZETTE",
+  "category": "Fashion",
+  "product_type": "Phu_kien",
+  "style_tag": [],
+  "prompt_base": "Hyper-pop candy glow studio with glossy surfaces, neon rimlight and direct flash (saturation boosted 125%). Checkerboard floor with rainbow shimmer, inflatable background shapes, pastel toy crates, sticker-covered speaker in background. No human model — product displayed as floating mid-air, spinning slightly, with chain charm trailing like comet tail. 1 hero item (AirPods case) in full front view, translucent glowing.  1 side inset (zoom on charging port).  1 floating sticker sheet in background with product face mascot. Bubble FX scattered in background (opacity 30%).  Cartoon lightning bolt FX behind product for pop.  Mini disco ball and sticker explosion overlay.  Tagline starburst (retro sticker style). Shape: Capsule contour with slightly rounded edges. Material: Soft TPU jelly with UV-reactive gloss. Key Feature: Glow-in-the-dark candy shimmer + clip-on mini mascot charm.",
+  "negative_prompt": "Minimalist setting, low contrast, neutral colors, natural light, realistic shadows, serious styling, mature tones.",
+  "model": "imagen4",
+  "dominant_colors": {
+    "main": "#FF69B4",
+    "accent": "#BFFF00"
+  },
+  "overlay": {
+    "text": {
+      "headline": {
+        "text_key": "main_text",
+        "font": "Futura-Bold.ttf",
+        "size": 28,
+        "color": "#BFFF00",
+        "x": 100,
+        "y": 100
+      },
+      "cta": {
+        "text_key": "cta",
+        "font": "Futura-Regular.ttf",
+        "size": 20,
+        "color": "#FF69B4",
+        "x": 100,
+        "y": 150
+      }
+    },
+    "logo": {
+      "x": 1400,
+      "y": 1300,
+      "width": 150,
+      "height": 50
+    }
+  }
+}

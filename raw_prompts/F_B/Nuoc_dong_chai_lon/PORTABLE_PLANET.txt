@@ -1,0 +1,75 @@
+[Overall Atmosphere]:
+Zen-inspired studio visual. Central vertical bottle floats slightly above a soft glowing floor. Eye-level perspective. Inside the bottle is a serene miniature floating garden — a shallow pond with lily pads, spiraling cucumber vines, and a single blooming jasmine tree that bends gently inwards. Mist swirls lightly around the base. The whole scene feels weightless, calming, and purified.
+
+[Dominant Color]:
+Main: Mist Green (#B9D7C5, 60%)
+Accent: Jasmine White (#F6F4ED, 20%)
+
+[General Environment]:
+Backdrop: seamless matte soft-beige to pastel-green gradient. Diffused lighting from top-left (10:30), simulating morning light. Minimal stage, with a faint glow circle beneath the bottle for gentle levitation illusion. Background texture: subtle paper grain, inspired by washi.
+
+[Model Pose]:
+None.
+
+[Product Placement]:
+1 hero item: 400ml tall cylindrical glass detox bottle with wide mouth cap
+2 interior elements:
+
+Central pond-like surface with reflective water, lily pads, and cucumber slice "rafts"
+
+Slender jasmine tree with spiraling leaves and white blossoms, reaching slightly toward the bottle top
+
+[Detailed Product Description]:
+Shape: tall cylindrical glass bottle with thick base
+Material: ultra-clear glass with a slightly matte finish
+Cap: pale green aluminum with embossed brand sigil
+Label: only a horizontal strip across the middle — soft green on clear background, minimalist font
+
+Inside the bottle:
+
+Pond surface with floating cucumber slices
+
+Soft ripples expanding from center
+
+Jasmine tree curved from the base, white petals floating above the pond
+
+Light mist whirls inside the lower third
+
+Tiny koi-like ripple glints (optional detail for depth)
+
+[Supporting Elements]:
+Ingredient icons on label: 🥒 cucumber • 🌼 jasmine • 💧 spring water
+
+Infographic overlay (side or corner):
+
+“pH 7.4 – Alkaline Balanced”
+
+“Infused for 12 hrs • Cold Extracted”
+
+“Caffeine Free • Unsweetened • No Preservatives”
+
+Optional circular "aura lines" behind bottle representing the detox wave
+
+[Logo Placement]:
+Logo: debossed on cap top
+Brand Name: printed vertically in center of bottle body (Japanese-style)
+
+[Ad Elements]:
+Main Title:
+“FLOATING GARDEN” – thin, tall serif font, pale green, spaced wide
+Subhead:
+“Cucumber Jasmine Infusion” – italic serif just beneath
+CTA:
+“Clear Within →” – bottom-right, elegant script, white
+Badge:
+“ZEN DETOX SERIES – Limited Bloom” – soft frame lower-left corner, serif small caps
+
+[Image Type]:
+Photoreal composite + painterly CGI details
+Canon EOS R5 style, 50mm, f/4.5
+Slight matte glow effect for airiness
+True-color palette, slightly warm white balance
+Natural light simulation, no heavy contrast
+
+[Negative Prompt]:
+No tropical fruits, no splash, no dark shadows, no heavy gradient, no futuristic visual, no metallic elements, no ice cubes, no people, no condensation, no food pairing.

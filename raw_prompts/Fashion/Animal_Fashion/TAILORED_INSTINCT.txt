@@ -1,0 +1,44 @@
+[Overall Atmosphere]
+High-end boutique indoor studio with warm, soft lighting and clean minimalist background in cream tones.
+
+[Dominant Color]
+Main: Cream (#F5F1E9)
+Accent: Deep Burgundy (#800020)
+Detail: Matte Gold (#B8860B)
+
+[General Environment]
+Smooth hardwood floor with subtle shadows, minimal props including a small velvet pedestal and a brass coat rack holding matching dog accessories.
+
+[Model Pose]
+Small breed dog (e.g., Yorkshire Terrier) standing proudly on pedestal, facing camera with head slightly tilted, ears perked up, tail relaxed.
+
+[Product Placement]
+Dog wears a tailored cape with velvet texture and gold embroidered trim.
+Supporting items: matching velvet bow tie and leather collar with gold buckle.
+
+[Detailed Product Description]
+
+Cape has a classic tailored cut with rounded edges, designed specifically to fit small dog proportions.
+
+Made of soft velvet with hand-embroidered gold trim along edges.
+
+Adjustable velcro closure under the chest for easy wear.
+
+[Supporting Elements]
+Close-up of embroidered details on cape edge.
+Matching accessories displayed on the coat rack.
+Soft velvet cushion on the pedestal to highlight luxury.
+
+[Logo Placement]
+Discrete embroidered logo on cape’s back right corner.
+Gold embossed tag on leather collar.
+
+[Advertising Integration]
+Main text: “ELEVATE THEIR STYLE”
+Call to action: “Discover the Urban Chic Collection →” positioned subtly at bottom right.
+
+[Image Type]
+Shot with medium format camera at f/2.8, warm color grading, sharp focus on dog’s face and fabric texture, slight vignette.
+
+[Negative Prompt]
+No human clothing, no costume elements, no messy background, no cartoonish styling, no distracting props.

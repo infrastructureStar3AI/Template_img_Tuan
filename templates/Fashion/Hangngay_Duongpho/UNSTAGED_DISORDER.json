@@ -1,0 +1,39 @@
+{
+  "name": "UNSTAGED_DISORDER",
+  "category": "Fashion",
+  "product_type": "Hangngay_Duongpho",
+  "style_tag": [],
+  "prompt_base": "4:23PM burnt-yellow side light from low sun. Overexposed sky. Color cast slightly green. Harsh flash fired by accident. Feels chaotic but honest. Back exit of a local laundry shop — plastic basket on ground, open detergent box, air duct pipe running low. Hand-painted signage partially torn. Female model (Filipino-Chinese, 26), crouching by laundry cart, one shoelace untied, face half-cut by frame. Looking down, shadow of metal rack falling on face diagonally. 1 hero item (mint green cropped tee) 2 supporting: rust-orange parachute pants + mismatched canvas sneakers Laundry basket half out of frame, detergent spilled, flash reflection on tiled floor (1/250s), clothing tag visible in unexpected spot Shape: Boxy, slightly off-center shoulder seam Material: Lightwashed cotton with unfinished hem Key Feature: One stitched label purposely upside-down",
+  "negative_prompt": "No perfection, no retouching, no cinematic light, no studio, no centered subject, no matching outfit, no clean logos.",
+  "model": "imagen4",
+  "dominant_colors": {
+    "main": "#C6D3C0",
+    "accent": "#CE643D"
+  },
+  "overlay": {
+    "text": {
+      "headline": {
+        "text_key": "main_text",
+        "font": "Futura-Bold.ttf",
+        "size": 28,
+        "color": "#CE643D",
+        "x": 100,
+        "y": 100
+      },
+      "cta": {
+        "text_key": "cta",
+        "font": "Futura-Regular.ttf",
+        "size": 20,
+        "color": "#C6D3C0",
+        "x": 100,
+        "y": 150
+      }
+    },
+    "logo": {
+      "x": 1400,
+      "y": 1300,
+      "width": 150,
+      "height": 50
+    }
+  }
+}

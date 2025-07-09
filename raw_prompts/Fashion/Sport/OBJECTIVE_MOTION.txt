@@ -1,0 +1,50 @@
+[Overall Atmosphere]
+High-speed product shoot — overhead flash + lateral kicker. Scene frozen mid-air. Feels engineered, suspended in time, with layered data overlays.
+
+[Dominant Color]
+Main: Void Black (#101010, 70%)
+Accent: Plasma Blue (#2D98DA, 20%)
+
+[General Environment]
+Floating product scene: a pair of high-performance running shoes frozen above matte platform. Zoom inset shows heel structure. Vector arrows and floating text annotations highlight features.
+
+[Model Pose]
+None.
+
+[Product Placement]
+1 hero item (carbon black runner)
+2 supporting views: heel close-up + outsole zoom overlay
+Dynamic composition with exploded powder ring below
+
+[Detailed Product Description]
+Shape: Ergonomic forward-leaning profile
+Material: Dual-layer mesh upper + carbon-fiber plate embedded midsole
+Key Feature: 7° propulsion arc, transparent energy channel visible from bottom
+
+[Supporting Elements]
+• Arrows pointing to: outsole grip pattern, mesh zones, heel drop
+• Zoom bubble (top-right) showing plate flex
+• Text tags near shoe:
+ - “Propulsion Arc: 7°”
+ - “Drop: 5mm”
+ - “Energy Plate: Carbon-X Frame”
+ - “Weight: 213g (EU42)”
+ - “Support: Neutral / Speed”
+
+[Logo Placement]
+
+Side sole logo debossed
+
+Holo-stamp top view (rotated 25° to catch light)
+
+[Ad Elements]
+Main Text: "ENGINEERED FOR ASCENT" (font: Eurostile Extended, plasma blue)
+CTA: "Zero drag. Full propulsion →" (white, bottom-right)
+Logo: Plasma icon, floating behind dust ring
+Badge: "FLIGHT SERIES / V1.3" tech badge, corner aligned
+
+[Image Type]
+Studio still life, f/7.1, ISO 125, 1/3000s. Object masked from background. Sharp overlays layered in post. Grid alignment used.
+
+[Negative Prompt]
+No people, no lifestyle, no soft light, no warm tones, no minimal blur, no real-world setting.

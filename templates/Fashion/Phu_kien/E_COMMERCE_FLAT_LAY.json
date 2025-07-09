@@ -1,0 +1,39 @@
+{
+  "name": "E_COMMERCE_FLAT_LAY",
+  "category": "Fashion",
+  "product_type": "Phu_kien",
+  "style_tag": [],
+  "prompt_base": "Clean flat lay. Top-down angle, soft shadow at 2:00 direction. Studio lighting with diffused fill. Minimal, premium, product-focused. Matte ivory backdrop. A faint linen texture visible. Subtle props: folded vintage newspaper (bottom-left), leather gloves (top-right corner), and a classic pocket watch placed partly out of frame. None. 1 hero item: men’s wool fedora hat (deep charcoal) 2 supporting pieces: vintage gloves + folded newspaper — diagonally placed to balance layout Soft-edged shadows (1/250s), crisp edge highlights on fedora brim, texture of wool clearly visible. Composition rule: centered hero item with L-shaped framing. Shape: Medium-brim fedora with pinched crown Material: 100% Merino wool felt Key Feature: Silk ribbon band with subtle tone-on-tone stitching and branded pin",
+  "negative_prompt": "No harsh reflections, no wrinkles on backdrop, no extreme props, no clutter, no overhead glare, no unbalanced layout.",
+  "model": "imagen4",
+  "dominant_colors": {
+    "main": "#A39887",
+    "accent": "#333333"
+  },
+  "overlay": {
+    "text": {
+      "headline": {
+        "text_key": "main_text",
+        "font": "Futura-Bold.ttf",
+        "size": 28,
+        "color": "#333333",
+        "x": 100,
+        "y": 100
+      },
+      "cta": {
+        "text_key": "cta",
+        "font": "Futura-Regular.ttf",
+        "size": 20,
+        "color": "#A39887",
+        "x": 100,
+        "y": 150
+      }
+    },
+    "logo": {
+      "x": 1400,
+      "y": 1300,
+      "width": 150,
+      "height": 50
+    }
+  }
+}

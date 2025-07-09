@@ -1,0 +1,40 @@
+[Overall Atmosphere]
+5:10PM golden hour. Backlight from low sun. Light haze in air. Warm tone with 2:1 soft side fill. Calm, private, intimate.
+
+[Dominant Color]
+Main: Warm Sand (#E4D9C5, 60%)
+Accent: Dusty Olive (#8A9776, 25%)
+
+[General Environment]
+Narrow alley corner — cracked wall paint, exposed pipe, climbing plant trailing from rooftop, shadows from overhead powerlines.
+
+[Model Pose]
+Female model (Vietnamese-French, mid 20s), leaning one shoulder against wall, face turned toward camera, soft gaze. Right hand in pocket, breeze lifts hem of shirt slightly.
+
+[Product Placement]
+1 hero item (sand-toned short-sleeve button-up shirt)
+2 supporting pieces (olive relaxed trousers + small leather belt pouch)
+
+[Detailed Product Description]
+Shape: Boxy shirt with straight hem, elbow-length sleeves
+Material: Garment-dyed linen blend, slightly wrinkled finish
+Key Feature: Hidden mother-of-pearl buttons, tonal topstitch
+
+[Supporting Elements]
+Wall texture behind model, climbing plant shadows across shirt, breeze moving shirt hem (1/250s), muted reflection in nearby window
+
+[Logo Placement]
+
+Woven fabric tag on shirt bottom left (2cm)
+
+Logo spray-stenciled on lower wall behind model (barely visible, light gray)
+
+[Advertising Integration]
+Main Text: “BREATHE IN THE CORNER.” in Futura Bold, 24pt, Dusty Olive
+CTA: “Softwear for real days →” in Neue Haas Grotesk Light, 20pt, Warm Sand color, placed bottom-right, just above ground line
+
+[Image Type]
+Fuji X-Pro3, Classic Chrome simulation, f/4.5, ISO 400. Slight vignette. Mild film grain. Preserved highlights and shadow softness.
+
+[Negative Prompt]
+No studio light, no neon, no cold tones, no dramatic poses, no artificial shadows, no digital props.

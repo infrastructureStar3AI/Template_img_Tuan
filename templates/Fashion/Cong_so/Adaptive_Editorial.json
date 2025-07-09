@@ -1,0 +1,39 @@
+{
+  "name": "Adaptive_Editorial",
+  "category": "Fashion",
+  "product_type": "Cong_so",
+  "style_tag": [],
+  "prompt_base": "Bold sophistication with 2:1 lighting ratio. Minimalist indoor space with frosted glass backdrop, polished concrete floor, 10% atmospheric haze. 3/4 view, power pose with one hand adjusting cufflink, head tilted 10°, confident smirk. 1 hero item (tailored single-breasted blazer) + 2 supporting pieces (crisp dress shirt, tailored trousers) in centered focus arrangement. Sleek black desk with a single leather-bound notebook, fabric motion at 1/250s. Shape: Sleek contoured fit with 12° angular cuts. Material: Wool-silk blend (85% opacity). Key Feature: Notched lapel with gold-threaded stitching.",
+  "negative_prompt": "Grainy textures, unbalanced lighting, cluttered backgrounds, unnatural color shifts, low-quality details, overly staged poses.",
+  "model": "imagen4",
+  "dominant_colors": {
+    "main": "#B89778",
+    "accent": "#B89778"
+  },
+  "overlay": {
+    "text": {
+      "headline": {
+        "text_key": "main_text",
+        "font": "Futura-Bold.ttf",
+        "size": 28,
+        "color": "#B89778",
+        "x": 100,
+        "y": 100
+      },
+      "cta": {
+        "text_key": "cta",
+        "font": "Futura-Regular.ttf",
+        "size": 20,
+        "color": "#B89778",
+        "x": 100,
+        "y": 150
+      }
+    },
+    "logo": {
+      "x": 1400,
+      "y": 1300,
+      "width": 150,
+      "height": 50
+    }
+  }
+}

@@ -1,0 +1,42 @@
+[Overall Atmosphere]
+
+Quiet solitude, golden-hour shadows stretched across glass and metal. 2:1 lighting ratio, warm tones bathing a silent space.
+[Dominant Color]
+
+Main: Warm Taupe (#D2B48C, 60%)
+
+Accent: Graphite Shadow (#4B4B4B, 25%)
+[General Environment]
+
+Late evening corporate floor — cubicles emptied, window blinds half-lowered, lone desk lamp still lit, skyline fading into dusk through panoramic glass wall.
+[Model Pose]
+
+Female model (late 20s, East Asian), seated with one leg crossed over, elbow resting on desk, chin on hand, gaze toward sunset. Blazer draped over chair, not worn.
+[Product Placement]
+
+1 hero item (office-ready taupe blazer with soft lapel fold)
+2 supporting pieces (cream turtleneck knit + cropped charcoal trousers) placed naturally: blazer on chair, outfit worn in relaxed posture.
+[Detailed Product Description]
+
+Shape: Relaxed-fit blazer with fluid lines, double-vent back.
+
+Material: Brushed cotton-linen blend, matte finish.
+
+Key Feature: Hidden side pocket inside right flap for journaling pen.
+[Supporting Elements]
+
+Open notebook with handwritten words, closed MacBook, a half-empty coffee mug with lipstick stain, tiny potted plant casting soft shadow on desk corner.
+[Logo Placement]
+
+Embossed inside collar band, 1.8cm, tone-on-tone stitching in graphite thread.
+[Advertising Integration]
+
+Main Text: "Not Everything That Ends is Lost." — in Baskerville Italic, 28pt
+
+CTA: “Discover the Soft Exit →” in soft gold serif, bottom-left aligned.
+[Image Type]
+
+Fujifilm X100V look, f/2.0, golden LUT with halation, slight noise in shadows, soft falloff near window edges.
+[Negative Prompt]
+
+No flash, no glamour lighting, no dramatic poses, no fashion runway looks, no neon, no surreal props, no heavy makeup, no product overexposure.

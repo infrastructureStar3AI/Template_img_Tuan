@@ -1,0 +1,39 @@
+{
+  "name": "MINIMAL_STUDIO_DROP",
+  "category": "Fashion",
+  "product_type": "Trang_suc",
+  "style_tag": [],
+  "prompt_base": "Silent arctic void. Frost particles suspended midair. Key lighting: Cyan rim light from behind glacier wall (3:1), high-pass fill from front. Color temperature: cold, sterile, distant. Two vertical translucent ice slabs form a narrow crevice. The necklace floats in the gap — gently rotated, caught mid-freeze. Background: shimmering frozen mist, faint aurora swirls far behind. No human model. Necklace floats with natural arc, pendant facing forward. One crystal droplet forms mid-air near pendant tip, just before contact. 1 hero item: Silver necklace with raw aquamarine pendant 2 supporting:  Frost thread hanging naturally from clasp  Tiny shard of cracked ice reflecting chain texture • Mist curl wrapping softly around pendant (captured at 1/200s) • Lens flare through gemstone facets • Thin frost line sketching onto nearest ice wall • Subtle tilt in chain mimics wind pressure Shape: Slim, minimal chain (42cm), single gemstone pendant (irregular cut) Material: Rhodium-plated silver with aquamarine Key Feature: Pendant encased in thin frost shell — semi-transparent effect",
+  "negative_prompt": "No human figure, no gold tones, no firelight, no studio background, no cluttered props, no softness on product edge",
+  "model": "imagen4",
+  "dominant_colors": {
+    "main": "#F8F8F8",
+    "accent": "#E5E4E2"
+  },
+  "overlay": {
+    "text": {
+      "headline": {
+        "text_key": "main_text",
+        "font": "Futura-Bold.ttf",
+        "size": 28,
+        "color": "#E5E4E2",
+        "x": 100,
+        "y": 100
+      },
+      "cta": {
+        "text_key": "cta",
+        "font": "Futura-Regular.ttf",
+        "size": 20,
+        "color": "#F8F8F8",
+        "x": 100,
+        "y": 150
+      }
+    },
+    "logo": {
+      "x": 1400,
+      "y": 1300,
+      "width": 150,
+      "height": 50
+    }
+  }
+}

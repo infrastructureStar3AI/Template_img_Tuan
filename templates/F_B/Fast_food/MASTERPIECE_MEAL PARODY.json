@@ -1,0 +1,39 @@
+{
+  "name": "MASTERPIECE_MEAL PARODY",
+  "category": "F_B",
+  "product_type": "Fast_food",
+  "style_tag": [],
+  "prompt_base": "humorous parody of the painting \"American Gothic\", midwestern farmhouse tone combined with absurd fast food elements, warm muted daylight with slight desaturation rural American farmhouse setting faithfully recreated in background — wooden house with gothic window, grey cloudy sky, wooden fence partially visible same pose as original painting — a stern-faced man in overalls holding a pitchfork, standing beside a woman in dark apron dress — but now they both hold fast food items in deadpan seriousness - The man holds a **giant cheeseburger impaled on the pitchfork**, centered and straight, oozing with melted cheese and sauce   - The woman clutches a **branded fast food paper bag** with both hands at her waist level — the top of a fries box and a drink cup poking out - Man’s denim overalls have subtle **sauce splatter stains**   - Woman’s collar now subtly patterned with **mini burgers and fries icons**   - A small ketchup packet lies on the ground near their feet   - Background house has a neon fast food **\"Drive-Thru\"** sign hanging under the gothic window - **Burger**: triple-stack beef burger with melted cheddar, lettuce, tomato, and ketchup visibly dripping from the sides, sesame bun slightly uneven, a bite taken from the top layer   - **Fries**: sticking out of red paper box, some tilted, textures clearly defined with crisp ends   - **Drink**: translucent plastic soda cup with branded logo, a tilted red straw and condensation droplets on surface   - **Paper Bag**: wrinkled kraft paper texture with oil spots, printed logo and slogan on front",
+  "negative_prompt": "- No modern background, no photographic realism, no cartoon exaggeration, no pop art style, no anime or chibi rendering, no flat lay food styling",
+  "model": "imagen4",
+  "dominant_colors": {
+    "main": "#CCCCCC",
+    "accent": "#FF0000"
+  },
+  "overlay": {
+    "text": {
+      "headline": {
+        "text_key": "main_text",
+        "font": "Futura-Bold.ttf",
+        "size": 28,
+        "color": "#FF0000",
+        "x": 100,
+        "y": 100
+      },
+      "cta": {
+        "text_key": "cta",
+        "font": "Futura-Regular.ttf",
+        "size": 20,
+        "color": "#CCCCCC",
+        "x": 100,
+        "y": 150
+      }
+    },
+    "logo": {
+      "x": 1400,
+      "y": 1300,
+      "width": 150,
+      "height": 50
+    }
+  }
+}

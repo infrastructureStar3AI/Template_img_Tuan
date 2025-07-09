@@ -1,0 +1,56 @@
+[Overall Atmosphere]:
+Rustic calm in a forest morning — dappled sunlight filters through autumn leaves, with soft beams scattering across an uneven woodland table. The mood is organic and romantic, like a secret meal shared in the woods after dawn.
+
+[Dominant Color]:
+
+Main: Maplewood Amber (#D7A86E, 50%)
+
+Accent: Forest Moss Green (#4B5E3C, 20%)
+
+[General Environment]:
+A handcrafted wooden picnic table sits under a canopy of amber-orange foliage. Fallen leaves scatter naturally across the tabletop. The tableware is mismatched ceramic and vintage silver, giving it a nostalgic, earthy tone. Mushrooms grow beside the table legs, and tiny birds perch nearby.
+
+[Model Pose]:
+(No human model visible.) Only a shadow of a person’s arm is seen from the side, pouring warm cider from a glass kettle into a fogged mug. Steam gently rises, catching the sunlight.
+
+[Product Placement]:
+
+1 hero item: A stacked savory-sweet toast tower with roasted figs, brie, toasted walnuts, and honey drizzle
+
+2 supporting dishes: A stoneware bowl of pear compote and a folded linen napkin with gold flatware
+
+[Detailed Product Description]:
+
+Shape: Irregular toast layers, rustic and hearty, stacked like forest bark
+
+Material: Dense country loaf with grill marks, creamy melted cheese, glistening fig slices
+
+Key Feature: Honey dripping from a wooden honey dipper, suspended in motion between fig and toast
+
+[Supporting Elements]:
+
+Mushrooms, chestnuts, and acorns casually placed around the scene
+
+A foggy glass of cider with clove and orange peel inside
+
+Faint glimmers of morning dew on the wood surface and ceramic glaze
+
+[Logo Placement]:
+
+Top-left corner carved into a wooden plank sign style: “GLADE & GATHER”
+
+Subtext in small serif beneath: “Slow mornings taste better”
+
+Branding is styled to look like it was engraved into natural surfaces
+
+[Advertising Integration]:
+
+Main Text: “AUTUMN’S FIRST BITE” — across the top in serif, mimicking carved bark letters
+
+CTA: “Gather, Pour, Savor” placed subtly on a fallen oak leaf in the lower-right foreground
+
+[Image Type]:
+Ambient lifestyle food editorial — wide-aperture lens for cinematic blur, soft natural backlight, with textures from wood, leaf, and food emphasized. Steam and syrup glow warmly against the dappled sun.
+
+[Negative Prompt]:
+No studio lighting, no marble tables, no artificial garnish, no monochrome background, no overhead flat lay, no clean-edge plates

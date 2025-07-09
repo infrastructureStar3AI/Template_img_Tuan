@@ -1,0 +1,39 @@
+{
+  "name": "Editorial_Fashion",
+  "category": "Fashion",
+  "product_type": "Cong_so",
+  "style_tag": [],
+  "prompt_base": "Precision-lit studio setup with 4:1 lighting ratio, high contrast rim light for sharp garment definition, clean editorial mood. Seamless matte black cyclorama wall, high-gloss polished floor for subtle reflections, controlled haze at 10% to enhance depth. Vietnamese female model, standing strong in contrapposto, arms down with hands relaxed at sides, shoulders squared, chin up 10°, neutral confident gaze. 1 hero item (graphite oversized power blazer with cinched belt) 2 supporting pieces (straight-leg trousers, silver satin shirt) in a structured vertical layout, slight angle for dynamism. Raised chrome pedestal under one foot, folded reflective backdrop panel at 30°, wind fluttering shirt hem (captured at 1/1000s), soft fog glow around silhouette. Shape: Boxy shoulder, tapered waist, extended hemline. Material: High-density suiting wool with silk blend. Key Feature: Oversized chrome buckle belt and inner contrast lapel.",
+  "negative_prompt": "No environmental clutter, no natural daylight, no casual pose, no western model, no chromatic aberration, no softness, no flat colors, no smudging.",
+  "model": "imagen4",
+  "dominant_colors": {
+    "main": "#1C1C1C",
+    "accent": "#E5E4E2"
+  },
+  "overlay": {
+    "text": {
+      "headline": {
+        "text_key": "main_text",
+        "font": "Futura-Bold.ttf",
+        "size": 28,
+        "color": "#E5E4E2",
+        "x": 100,
+        "y": 100
+      },
+      "cta": {
+        "text_key": "cta",
+        "font": "Futura-Regular.ttf",
+        "size": 20,
+        "color": "#1C1C1C",
+        "x": 100,
+        "y": 150
+      }
+    },
+    "logo": {
+      "x": 1400,
+      "y": 1300,
+      "width": 150,
+      "height": 50
+    }
+  }
+}

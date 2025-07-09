@@ -1,0 +1,39 @@
+{
+  "name": "Conceptual_Artwear",
+  "category": "Fashion",
+  "product_type": "Cong_so",
+  "style_tag": [],
+  "prompt_base": "Absurdist stillness, controlled chaos with 5:1 lighting ratio; cold top light casting fractured shadows, museum-exhibit stillness. Abstract office ruin — a deconstructed cubicle built from concrete slabs, scattered fluorescent light tubes on the floor, suspended ceiling panel floating mid-air. Androgynous Vietnamese model in her 30s, standing on one leg atop a broken desk, spine arched backwards unnaturally, tie draped over face, briefcase hanging from elbow, eyes closed. 1 hero item (deconstructed gray power suit jacket with asymmetric hem)  2 supporting pieces (crumpled red silk tie, pinstripe trousers with raw edge) — arranged in reverse-pyramid composition. Upside-down office chair bolted to wall, wall clock with melted face à la Dalí, floating copier paper caught in motion at 1/1000s. Shape: One-shouldered tailored blazer with exploded inner structure. Material: Stiff wool suiting fabric fused with resin panels. Key Feature: Fold-out lapel resembling architectural wings.",
+  "negative_prompt": "No smiling model, no clean office, no modern furniture, no standard composition, no perfect symmetry, no casualwear.",
+  "model": "imagen4",
+  "dominant_colors": {
+    "main": "#B2B2B2",
+    "accent": "#D72638"
+  },
+  "overlay": {
+    "text": {
+      "headline": {
+        "text_key": "main_text",
+        "font": "Futura-Bold.ttf",
+        "size": 28,
+        "color": "#D72638",
+        "x": 100,
+        "y": 100
+      },
+      "cta": {
+        "text_key": "cta",
+        "font": "Futura-Regular.ttf",
+        "size": 20,
+        "color": "#B2B2B2",
+        "x": 100,
+        "y": 150
+      }
+    },
+    "logo": {
+      "x": 1400,
+      "y": 1300,
+      "width": 150,
+      "height": 50
+    }
+  }
+}

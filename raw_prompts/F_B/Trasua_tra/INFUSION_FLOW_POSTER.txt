@@ -1,0 +1,92 @@
+[Overall Atmosphere]:
+Vertical infographic poster in flat 2D vector illustration style. Warm, intelligent, and health-driven mood. Stylized matcha swirl flows from the cup, shaped like an upward ribbon path. A3 layout (portrait). Background is gradient matte green, with subtle circular dot overlays and faint leaf vein motifs. All text and visuals are clean, outlined, and proportionally spaced. Energetic but composed.
+
+[Dominant Color]:
+Main: Matcha Green (#6A8D59, 60%)
+Accent: Pale Pistachio (#DCEFC7, 20%)
+
+[General Environment]:
+No physical setting. The entire background is a soft gradient (deep green to mossy lime) with radial dot textures. From the cup at the bottom-center, a smooth matcha stream swirls upward in an S-shaped path, carrying illustrated ingredients and embedded infographic bubbles. Side zones are used for labels, benefits, charts, and data.
+
+[Model Pose]:
+None. The matcha swirl is the main subject. The flow itself becomes the visual character.
+
+[Product Placement]:
+1 hero item: short transparent glass of matcha latte, placed bottom-center
+2 supporting objects:
+
+Bamboo matcha whisk (bottom-left, partially resting against cup)
+
+Wooden spoon with powder mound (bottom-right, tilted)
+
+[Detailed Product Description]:
+Cup shape: round-bottomed glass with thick rim and base
+Content: vibrant green liquid with visible froth layer on top, speckled foam effect
+Details: matcha stream bursts from center-top of cup, forms upward spiral with thick viscosity and energy droplets
+Powder inside spoon has light grain texture
+Whisk drawn with clean bamboo strokes, tan color with green staining
+
+[Supporting Elements]:
+The matcha spiral carries a sequence of orbiting illustrated components:
+
+Tea leaves (Camellia sinensis) – light leaf outlines, curved with motion
+
+Matcha powder cloud – represented as a soft burst of green particles mid-path
+
+Catechin molecule icon – placed beside leaf with label
+
+Clock icon (5.5hr focus) – near middle swirl bend
+
+Pie chart (40% Vitamin A) – just above cup
+
+Sparkle dots and leaf fragments scattered along spiral path
+
+Floating benefit tags connected to components:
+
+“137x Antioxidants” (beside swirl origin)
+
+“40% Daily Vitamin A”
+
+“5.5hr Focus Time”
+
+“Calm Energy | Clean Burn | No Crash”
+
+“Mental Clarity > Coffee”
+
+Icons drawn in light, outlined style. Dotted lines connect text to each ingredient clearly.
+
+[Logo Placement]:
+Brand logo in lower-left corner, solid white or matte gold depending on background.
+Slogan line (“Ceremonial Grade Energy”) just beneath in sans-serif, small caps.
+
+[Ad Elements]:
+Main Title:
+“MATCHA MORE” – top-center, large serif uppercase (Playfair Display Bold, pistachio gradient fill, 48pt)
+Subhead:
+“Calm Focus, Clean Burn” – italic, just below title, centered
+CTA:
+“Try the Ceremonial Series →” – bottom-right, sans-serif font, green text box
+
+Other visual elements:
+
+Vertical chart (left) showing “Matcha vs. Coffee vs. Green Tea” in antioxidant power
+
+Thin line graph (bottom-right) “Cognitive clarity over time”
+
+Circular text area mid-poster for quote or story (e.g. history of Zen monks using matcha)
+
+[Image Type]:
+Flat vector infographic illustration
+
+Poster resolution: A3, 300dpi
+
+Stroke: clean 2.5pt outlines for all icons
+
+Fills: flat color blocks, no gradients in object interiors
+
+Motion: expressed through curved paths and droplet trails
+
+Layout: grid-aligned margins, text & image zones balanced
+
+[Negative Prompt]:
+No human model, no 3D render, no real textures, no photorealism, no glass reflection, no shadows, no latte art, no foam overflow, no physical table or background. No photographic ingredients. No serif overload.

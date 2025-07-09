@@ -1,0 +1,39 @@
+{
+  "name": "WOOLEN_SOULS",
+  "category": "Fashion",
+  "product_type": "Animal_Fashion",
+  "style_tag": [],
+  "prompt_base": "Dreamy editorial set, pale blue gradient background Backlit haze, spotlight on subject, gentle floor fog Soft lens flare near the brooch Minimal set: smooth surface with soft shadows under rabbit Sheer tulle puddles gently on the floor One hand from a human model reaching in from the edge, adjusting cape Rabbit in mid-hop — front paw lifted, back leg stretched Ears upright, slightly asymmetrical Eyes glossy black (real), yarn wraps form accurate muscle shapes Head tilted, as if responding to sound Hero item: real silver tulle cape flows behind rabbit, clasped at neck Cape pinned with large crystal brooch Tulle moves with rabbit’s motion, catches light behind Floating text: “WOOLEN SOULS 09” in silver serif Soft reflection of rabbit on polished white floor Crystal sparkle adds magazine cover polish Rabbit fully wrapped in soft crochet yarn Yarn fibers left slightly loose at joints and neck for texture Paws and ears defined, but clearly handmade No visible skin — full yarn coverage, true to rabbit anatomy Cape made of real fashion-grade tulle, crystal reflective under light",
+  "negative_prompt": "No toy look. No smooth fur. No fake eyes. No pastel CGI. No static pose. No clutter. No stylized cartoon.",
+  "model": "imagen4",
+  "dominant_colors": {
+    "main": "#F6F6F6",
+    "accent": "#D8D8D8"
+  },
+  "overlay": {
+    "text": {
+      "headline": {
+        "text_key": "main_text",
+        "font": "Futura-Bold.ttf",
+        "size": 28,
+        "color": "#D8D8D8",
+        "x": 100,
+        "y": 100
+      },
+      "cta": {
+        "text_key": "cta",
+        "font": "Futura-Regular.ttf",
+        "size": 20,
+        "color": "#F6F6F6",
+        "x": 100,
+        "y": 150
+      }
+    },
+    "logo": {
+      "x": 1400,
+      "y": 1300,
+      "width": 150,
+      "height": 50
+    }
+  }
+}

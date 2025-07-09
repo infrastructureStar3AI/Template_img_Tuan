@@ -1,0 +1,40 @@
+[Overall Atmosphere]
+Nighttime urban isolation. Mix of harsh flash + neon spill (4:1), background shadows deep and crushed. Feels like caught in transit.
+
+[Dominant Color]
+Main: Black asphalt (#1A1A1A, 60%)
+Accent: Neon Cyan (#2DFEFF, 25%)
+
+[General Environment]
+Alleyway behind convenience store — reflective puddles, brick wall with graffiti, fluorescent light from broken signboard flickering. Motorbike parked halfway out of frame.
+
+[Model Pose]
+Androgynous model (Korean-German, short buzzcut), sitting on upturned crate, staring deadpan at camera. One leg extended, jacket off-shoulder. Flash catches face sharply.
+
+[Product Placement]
+1 hero item (black technical bomber jacket with reflective lining)
+2 supporting pieces (cropped ribbed top + cargo mini skirt) — edgy layering, high-contrast fit
+
+[Detailed Product Description]
+Shape: Structured shoulders, cinched waist, exaggerated sleeve volume
+Material: Windproof nylon shell with mesh lining
+Key Feature: Iridescent zipper that glows under blue light
+
+[Supporting Elements]
+Energy drink can tipped over, long reflective strip on ground, light trail from scooter @ 1/30s, puddle reflecting neon sign (mirrored text)
+
+[Logo Placement]
+Heat-reactive print on right sleeve, visible only under warm light. 3cm diagonal line morphs into logo when heated.
+
+[Advertising Integration]
+Main Text: “WHAT’S LEFT, STAYS SHARP.” — in Neue Haas Grotesk Bold 30pt, Neon Cyan
+CTA: “Nightgear. No Apologies. →” — black-on-black shadow text, top-left graffiti style
+
+[Image Type]
+Shot on DSLR + on-camera flash, f/2.2, ISO 1600. Heavy contrast, highlight blown intentionally. Texture grain 35%, blue tint shadows, high clarity on eyes.
+
+
+
+[Negative Prompt]
+
+No natural light, no smiling, no cozy outfit, no greenery, no golden hour tones, no warm ambiance, no minimalism.

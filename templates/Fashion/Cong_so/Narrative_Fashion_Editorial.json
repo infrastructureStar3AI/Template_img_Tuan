@@ -1,0 +1,39 @@
+{
+  "name": "Narrative_Fashion_Editorial",
+  "category": "Fashion",
+  "product_type": "Cong_so",
+  "style_tag": [],
+  "prompt_base": "Quiet solitude, golden-hour shadows stretched across glass and metal. 2:1 lighting ratio, warm tones bathing a silent space. Late evening corporate floor — cubicles emptied, window blinds half-lowered, lone desk lamp still lit, skyline fading into dusk through panoramic glass wall. Female model (late 20s, East Asian), seated with one leg crossed over, elbow resting on desk, chin on hand, gaze toward sunset. Blazer draped over chair, not worn. 1 hero item (office-ready taupe blazer with soft lapel fold) 2 supporting pieces (cream turtleneck knit + cropped charcoal trousers) placed naturally: blazer on chair, outfit worn in relaxed posture. Open notebook with handwritten words, closed MacBook, a half-empty coffee mug with lipstick stain, tiny potted plant casting soft shadow on desk corner. Shape: Relaxed-fit blazer with fluid lines, double-vent back.  Material: Brushed cotton-linen blend, matte finish.  Key Feature: Hidden side pocket inside right flap for journaling pen.",
+  "negative_prompt": "No flash, no glamour lighting, no dramatic poses, no fashion runway looks, no neon, no surreal props, no heavy makeup, no product overexposure.",
+  "model": "imagen4",
+  "dominant_colors": {
+    "main": "#D2B48C",
+    "accent": "#4B4B4B"
+  },
+  "overlay": {
+    "text": {
+      "headline": {
+        "text_key": "main_text",
+        "font": "Futura-Bold.ttf",
+        "size": 28,
+        "color": "#4B4B4B",
+        "x": 100,
+        "y": 100
+      },
+      "cta": {
+        "text_key": "cta",
+        "font": "Futura-Regular.ttf",
+        "size": 20,
+        "color": "#D2B48C",
+        "x": 100,
+        "y": 150
+      }
+    },
+    "logo": {
+      "x": 1400,
+      "y": 1300,
+      "width": 150,
+      "height": 50
+    }
+  }
+}

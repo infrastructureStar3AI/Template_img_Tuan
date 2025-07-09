@@ -1,0 +1,39 @@
+{
+  "name": "HIGH_PERFORMANCE_EDITORIAL",
+  "category": "Fashion",
+  "product_type": "Sport",
+  "style_tag": [],
+  "prompt_base": "Mid-action freeze frame. Studio lighting (3-light setup) with crisp flash (1/2000s) and deep directional shadows. Slight sweat shimmer. Feels intense and clean. Minimalist indoor training zone — matte black rubber floor, wall-mounted resistance bands, subtle chalk dust in the air. No clutter. Female model (African-French, early 30s), mid-jump squat, arms pushing upward, jaw tight, left shoe just off the floor. Visible muscle flex. Tight framing, body filling 2/3 of image. 1 hero item (high-support jet black sports bra) 2 supporting: electric red compression leggings + performance wristbands Motion sweat shine on collarbone, shoe sole lifted (frozen @ 1/2000s), chalk particles catching sidelight, matte wall grid in background Shape: Contour-fit with racerback Material: Moisture-wicking poly-elastane blend Key Feature: Thermo-bonded mesh zones on chest & back for breathability",
+  "negative_prompt": "No blur, no softness, no pastel, no smile, no posing, no accessories, no distractions.",
+  "model": "imagen4",
+  "dominant_colors": {
+    "main": "#1A1A1A",
+    "accent": "#D72638"
+  },
+  "overlay": {
+    "text": {
+      "headline": {
+        "text_key": "main_text",
+        "font": "Futura-Bold.ttf",
+        "size": 28,
+        "color": "#D72638",
+        "x": 100,
+        "y": 100
+      },
+      "cta": {
+        "text_key": "cta",
+        "font": "Futura-Regular.ttf",
+        "size": 20,
+        "color": "#1A1A1A",
+        "x": 100,
+        "y": 150
+      }
+    },
+    "logo": {
+      "x": 1400,
+      "y": 1300,
+      "width": 150,
+      "height": 50
+    }
+  }
+}

@@ -1,0 +1,42 @@
+[Overall Atmosphere]:
+Studio fashion editorial, close-up portrait, elegant lighting from the side.
+
+[Dominant Color]:
+Main: Soft grayscale (desaturated skin, neutral background)
+Accent: Emerald green on jewelry only
+
+[General Environment]:
+Clean dark-to-light gradient background, minimalist tone, luxury ambiance.
+
+[Model Pose]:
+Female model with slicked-back hair, eyes closed, chin slightly lifted. Hand gently touching collarbone.
+
+[Product Placement]:
+
+Statement emerald-cut emerald necklace at the center of chest
+
+Matching emerald ring on hand near collarbone
+
+Drop earring visible on lit side
+
+[Detailed Product Description]:
+Jewelry set in platinum, emerald center stone surrounded by pavé diamonds.
+Design is vintage-inspired with geometric cuts and strong symmetry.
+
+[Supporting Elements]:
+Light gleam catching on gem facets, high sharpness on product, subtle shine on lips, smooth background gradient.
+
+[Logo Placement]:
+Centered at top with serif font
+
+[Ad Elements]:
+Main Text: "Timeless Clarity" (font: Cinzel, white)
+CTA: "Illuminate Your Essence"
+Logo:
+Badge:
+
+[Image Type]:
+Canon R5, 85mm f/1.2, color-graded in post to isolate green hues only on product
+
+[Negative Prompt]:
+No background props, no distracting makeup, no color on lips or skin, no extra jewelry outside of main set

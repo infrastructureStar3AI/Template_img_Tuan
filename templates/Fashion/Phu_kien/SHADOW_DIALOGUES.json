@@ -1,0 +1,39 @@
+{
+  "name": "SHADOW_DIALOGUES",
+  "category": "Fashion",
+  "product_type": "Phu_kien",
+  "style_tag": [],
+  "prompt_base": "Noir cinematic with single-beam key light and ambient edge lighting (5:1 ratio). Matte graphite wall with narrow beam spotlight, background smoke gradient 10%. Facing camera, tilt head 30° to side, glasses worn low on nose bridge, eyes visible through tinted lens. Hero item (sunglasses) on model's face + 2 supporting reflections (mirror + lens close-up). Mirror fragment catching lens reflection, blown-out highlight on frame edge. Shape: Oversized aviator, angular lens cut. Material: Gradient-tinted polycarbonate with steel wireframe. Key Feature: Floating lens illusion with invisible nose bridge.",
+  "negative_prompt": "Cliché beach scene, colorful backdrop, overexposure, smiling model, plastic look.",
+  "model": "imagen4",
+  "dominant_colors": {
+    "main": "#0B0B0B",
+    "accent": "#C0C0C0"
+  },
+  "overlay": {
+    "text": {
+      "headline": {
+        "text_key": "main_text",
+        "font": "Futura-Bold.ttf",
+        "size": 28,
+        "color": "#C0C0C0",
+        "x": 100,
+        "y": 100
+      },
+      "cta": {
+        "text_key": "cta",
+        "font": "Futura-Regular.ttf",
+        "size": 20,
+        "color": "#0B0B0B",
+        "x": 100,
+        "y": 150
+      }
+    },
+    "logo": {
+      "x": 1400,
+      "y": 1300,
+      "width": 150,
+      "height": 50
+    }
+  }
+}

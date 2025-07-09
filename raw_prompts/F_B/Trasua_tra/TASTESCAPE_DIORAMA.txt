@@ -1,0 +1,38 @@
+[Overall Atmosphere]:
+Lush miniature serenity — soft sunbeams through a matcha-colored canopy. 2:1 lighting ratio with ambient haze and soft side lighting from lower right, creating a dreamlike, early morning mist. The scene feels like a forest within a terrarium — detailed, controlled, and magically alive.
+
+[Dominant Color]:
+Main: Earthy Matcha Green (#7BA05B, 65%)
+Accent: Cloud Milk White (#F9F6F2, 20%)
+
+[General Environment]:
+A miniature grove built entirely from matcha elements: tree trunks shaped from stacked jelly cubes, leaves made of curled tea dust, boulders crafted from green tapioca. The central matcha latte cup rises like a sacred spring from the forest floor, surrounded by winding paths made from milk foam trails. Floating above it is a soft swirl of whipped cream resembling morning fog.
+
+[Model Pose]:
+(No human model.) The matcha latte cup sits slightly embedded in the soft mossy terrain. One trail of milk is seen cascading down from the edge of the cream swirl, creating a flowing stream through the forest floor. A cube of matcha jelly rests mid-fall from a tiny leaf canopy.
+
+[Product Placement]:
+1 hero item (glass cup of iced matcha latte with visible green layers and milk clouds)
+2 supporting pieces (floating jelly cube, tea leaf sprig growing from the ground) — arranged in a subtle triangle, drawing the eye from foreground to cup to mist
+
+[Detailed Product Description]:
+Shape: Rounded glass cup with thick base, lidless
+Material: Smooth borosilicate glass, showing layered liquid: matcha at base, milk in mid, soft whipped foam on top
+Key Feature: A slow spiral of milk foam dissolving into green tea like a rising fog; tiny drops of condensation form rivers on the outer wall
+
+[Supporting Elements]:
+Tiny pebbles made from translucent jelly; moss-like textures crafted from whipped matcha; mini deer figurine drinking from a puddle of milk; a bridge made from biscuit stick arches connects two sides of the grove
+
+[Logo Placement]:
+Etched into a flat stone slab in front of the cup, styled like a forest shrine plaque: “MATCHA GROVE”
+Secondary line: “Steeped in Calm” carved beneath in thinner serif
+
+[Advertising Integration]:
+Main Text: “MATCHA GROVE” — serif font shaped like tree bark, curved over treetop line
+CTA: “Find Your Sip Path →” placed like a forest trail sign at lower-right, wooden texture
+
+[Image Type]:
+High-detail miniature forest diorama render, soft cinematic depth, focus on texture (foam, glass, jelly), volumetric lighting through “leaf” canopy; macro lens perspective to enhance handcrafted realism
+
+[Negative Prompt]:
+No plain tabletop, no hand, no splash, no pastel backgrounds, no café scene, no modern clean look, no high contrast

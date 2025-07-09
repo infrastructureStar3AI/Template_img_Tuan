@@ -1,0 +1,77 @@
+[Overall Atmosphere]
+Studio shot with museum-like stillness. One small whiskey bottle stands perfectly centered on a matte dark background.
+Camera angle: low and front-facing.
+Lighting: directional from top-left (10:00), casting a sharp-edged shadow behind and to the right.
+No environment, no props, no distractions — just the object and the space.
+
+[Dominant Color]
+Main: Charcoal Black (#1F1F1F) – 60%
+Accent: Warm Amber (#D3A260) – 20%
+
+[General Environment]
+Background: deep matte charcoal with no gradient.
+Surface: satin black with a slight soft reflection under bottle base.
+Lighting: controlled and harsh-edged, giving the bottle a defined silhouette.
+Atmosphere: bold, premium, minimal, silent.
+
+[Model Pose]
+None.
+
+[Product Placement]
+1 hero item: 100ml small-format whiskey bottle
+Shape: square-shouldered, squat profile with thick base
+Position: centered and upright in frame
+
+[Detailed Product Description]
+Material: clear glass bottle showing golden-amber whiskey inside
+Cap: dark metal twist cap with matte finish
+Label: small square, cream background, serif wordmark centered
+Label color: aged gold (#C9A469) text on off-white background
+Liquid: rich amber tone, no bubbles or movement
+
+Visual Details:
+Glass edges are rim-lit on both sides
+Shadow cast clearly on the right
+Subtle internal glow at bottom of bottle
+No fog, no condensation, no visual noise
+
+[Supporting Elements]
+None. Background and bottle only.
+
+[Logo Placement]
+On product: serif wordmark centered on label, no icon.
+On poster: brand logo or wordmark placed top-center in flat gold (#C9A469), approx. 2.5cm wide, no effects, no tagline.
+
+[Ad Elements]
+Main Headline
+Text: AGED SILENCE
+Position: centered bottom
+Font: bold serif, uppercase
+Size: 34pt
+Color: aged gold (#C9A469)
+
+Subheadline
+Text: 100ml • Single Barrel Whiskey • Aged 10 Years
+Position: below headline, 20px spacing
+Font: small caps serif
+Size: 13pt
+Color: muted warm gray (#9C8B78)
+
+CTA (optional)
+Text: Unseal the Time →
+Font: italic serif
+Position: bottom-right
+Size: 11pt
+Color: cool bronze (#BFA37B)
+
+[Image Type]
+Camera: Canon EOS R6
+Lens: 85mm
+Aperture: f/6.3
+Lighting: one-directional top-left light, crisp shadows
+White balance: warm-neutral
+Post-processing: edge enhancement, clean blacks, no vignette, no haze
+
+[Negative Prompt]
+No people, no hands, no pouring, no cups, no ice, no cork popping, no wood texture, no bar scene, no fruit, no typography overlay, no background design, no dust, no dramatic gradient, no condensation.
+

@@ -1,0 +1,41 @@
+[Overall Atmosphere]
+4:23PM burnt-yellow side light from low sun. Overexposed sky. Color cast slightly green. Harsh flash fired by accident. Feels chaotic but honest.
+
+[Dominant Color]
+Main: Dirty Mint (#C6D3C0, 50%)
+Accent: Rust Orange (#CE643D, 30%)
+
+[General Environment]
+Back exit of a local laundry shop — plastic basket on ground, open detergent box, air duct pipe running low. Hand-painted signage partially torn.
+
+[Model Pose]
+Female model (Filipino-Chinese, 26), crouching by laundry cart, one shoelace untied, face half-cut by frame. Looking down, shadow of metal rack falling on face diagonally.
+
+[Product Placement]
+1 hero item (mint green cropped tee)
+2 supporting: rust-orange parachute pants + mismatched canvas sneakers
+
+[Detailed Product Description]
+Shape: Boxy, slightly off-center shoulder seam
+Material: Lightwashed cotton with unfinished hem
+Key Feature: One stitched label purposely upside-down
+
+[Supporting Elements]
+Laundry basket half out of frame, detergent spilled, flash reflection on tiled floor (1/250s), clothing tag visible in unexpected spot
+
+[Logo Placement]
+
+Ink-stamped logo on front hem, half rubbed
+
+Sticker-style logo placed crooked in top-left corner of image
+
+[Ad Elements]
+Main Text: "WRONG ANGLE, CORRECT LIFE" (font: Courier Prime, 36pt)
+CTA: "try again tomorrow ~" (QR code)
+Badge: "ERROR CODE: 402" stamp
+
+[Image Type]
+Point-and-shoot camera (Canon SureShot A1), built-in flash, ISO 400. Slight blur from hand shake. Colors shifted in post. Film grain exaggerated.
+
+[Negative Prompt]
+No perfection, no retouching, no cinematic light, no studio, no centered subject, no matching outfit, no clean logos.

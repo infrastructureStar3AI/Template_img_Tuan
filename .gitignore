@@ -1,0 +1,11 @@
+# Ignore outputs
+output/
+templates/**/*.png
+*.DS_Store
+
+# Ignore generated JSON (nếu muốn giữ chỉ raw prompt)
+template_index.json
+
+# Ignore Python cache
+__pycache__/
+*.pyc

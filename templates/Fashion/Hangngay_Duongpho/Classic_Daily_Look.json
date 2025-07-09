@@ -1,0 +1,39 @@
+{
+  "name": "Classic_Daily_Look",
+  "category": "Fashion",
+  "product_type": "Hangngay_Duongpho",
+  "style_tag": [],
+  "prompt_base": "Early morning light (9:00 AM), 3:1 soft daylight with light shadows. Slight haze from street humidity. Calm, neutral tone. Street corner outside a bakery — warm-toned tiles, parked scooter, takeaway coffee stand, paper bags stacked. Loose bike chain in corner. Female model (Vietnamese, mid-20s), standing side-on, glancing back toward the camera, paper bag of pastries in one hand, other hand mid-pocket. Wind lifts the shirt slightly. 1 hero item (navy casual-fit button-down shirt) 2 supporting pieces (beige pleated trousers + canvas tote bag) Coffee cup steam caught in sunlight, bakery sign blurred in background, pastry bag crinkled in hand (shot at 1/1000s), shadow of bicycle wheel on wall Shape: Relaxed box-fit with tapered sleeve ends  Material: 100% washed cotton  Key Feature: Collar has subtle hand-stitch embroidery with repeating dot line",
+  "negative_prompt": "No gloss, no artificial lighting, no stylized posing, no high-fashion energy, no reflective surfaces.",
+  "model": "imagen4",
+  "dominant_colors": {
+    "main": "#3B4C5E",
+    "accent": "#E7DCCF"
+  },
+  "overlay": {
+    "text": {
+      "headline": {
+        "text_key": "main_text",
+        "font": "Futura-Bold.ttf",
+        "size": 28,
+        "color": "#E7DCCF",
+        "x": 100,
+        "y": 100
+      },
+      "cta": {
+        "text_key": "cta",
+        "font": "Futura-Regular.ttf",
+        "size": 20,
+        "color": "#3B4C5E",
+        "x": 100,
+        "y": 150
+      }
+    },
+    "logo": {
+      "x": 1400,
+      "y": 1300,
+      "width": 150,
+      "height": 50
+    }
+  }
+}

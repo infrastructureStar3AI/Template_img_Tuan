@@ -1,0 +1,42 @@
+[Overall Atmosphere]
+
+Early morning light (9:00 AM), 3:1 soft daylight with light shadows. Slight haze from street humidity. Calm, neutral tone.
+[Dominant Color]
+
+Main: Muted Navy (#3B4C5E, 65%)
+
+Accent: Pale Sand (#E7DCCF, 20%)
+[General Environment]
+
+Street corner outside a bakery — warm-toned tiles, parked scooter, takeaway coffee stand, paper bags stacked. Loose bike chain in corner.
+[Model Pose]
+
+Female model (Vietnamese, mid-20s), standing side-on, glancing back toward the camera, paper bag of pastries in one hand, other hand mid-pocket. Wind lifts the shirt slightly.
+[Product Placement]
+
+1 hero item (navy casual-fit button-down shirt)
+2 supporting pieces (beige pleated trousers + canvas tote bag)
+[Detailed Product Description]
+
+Shape: Relaxed box-fit with tapered sleeve ends
+
+Material: 100% washed cotton
+
+Key Feature: Collar has subtle hand-stitch embroidery with repeating dot line
+[Supporting Elements]
+
+Coffee cup steam caught in sunlight, bakery sign blurred in background, pastry bag crinkled in hand (shot at 1/1000s), shadow of bicycle wheel on wall
+[Logo Placement]
+
+Tonal embroidered logo on left shirt cuff, 2.5cm, only visible on closer zoom
+[Advertising Integration]
+
+Main Text: “DRESS SLOW. STAY PRESENT.” in Futura Bold 24pt
+
+CTA: “Shop the Everyday Edit →” in Neue Haas Grotesk Light 20pt, Pale Sand color, placed at bottom-right corner overlapping pavement shadow
+[Image Type]
+
+Fuji simulation, f/2.2, warm flat tone, slightly dehazed, with texture left intact. Realistic grain at 15%. Edits maintain natural folds & wrinkles.
+[Negative Prompt]
+
+No gloss, no artificial lighting, no stylized posing, no high-fashion energy, no reflective surfaces.

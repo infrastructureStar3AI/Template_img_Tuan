@@ -1,0 +1,39 @@
+{
+  "name": "FLAVOR_CORE_COLLISION",
+  "category": "F_B",
+  "product_type": "Trasua_tra",
+  "style_tag": [],
+  "prompt_base": "Energetic suspension with elegant chaos, mid-air stillness captured at the moment of impact; 4:1 lighting ratio with bright overhead light and soft back fill, creating dynamic texture and clarity in the splash form. Advertisement energy meets product purity. Mid-air product environment — the cup floats above ground against a soft bamboo-beige gradient background with subtle Japanese washi texture. No table or ground is visible. Surrounding air is clean, with light vapor trails emphasizing motion and freshness. (No model — replaced by liquid behavior.) Transparent plastic matcha latte cup tilts 45° while floating in mid-air. From the upper-left, creamy milk pours into the drink, captured at the moment it crashes and splashes outward in a crown-shaped burst. Ice cubes are ejected mid-splash, spinning freely. 1 hero item (floating iced matcha latte cup, tilted diagonally, splash rising from impact point) 2 supporting pieces (hovering bamboo whisk near base, spiraling matcha leaf fragments caught in the air) — arranged with dynamic motion around the splash arc. Three semi-transparent ice cubes with motion trails; bamboo whisk floating near bottom-left; tiny suspended matcha powder particles; soft vapor rings enhancing spatial depth. Shape: Tall transparent cup with slight taper, angled mid-air. Material: PET plastic cup with clear layering of bright green matcha, milk, and visible ice. Key Feature: Milk splash forms elegant, curved crown structure suspended mid-air, with droplets trailing behind.",
+  "negative_prompt": "No hands, no floor or table, no dirty splash, no low-quality textures, no surreal liquids, no flat backgrounds, no pastel filters, no cluttered elements.",
+  "model": "imagen4",
+  "dominant_colors": {
+    "main": "#7CA178",
+    "accent": "#F6F4F2"
+  },
+  "overlay": {
+    "text": {
+      "headline": {
+        "text_key": "main_text",
+        "font": "Futura-Bold.ttf",
+        "size": 28,
+        "color": "#F6F4F2",
+        "x": 100,
+        "y": 100
+      },
+      "cta": {
+        "text_key": "cta",
+        "font": "Futura-Regular.ttf",
+        "size": 20,
+        "color": "#7CA178",
+        "x": 100,
+        "y": 150
+      }
+    },
+    "logo": {
+      "x": 1400,
+      "y": 1300,
+      "width": 150,
+      "height": 50
+    }
+  }
+}

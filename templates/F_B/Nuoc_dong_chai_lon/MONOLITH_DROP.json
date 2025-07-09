@@ -1,0 +1,39 @@
+{
+  "name": "MONOLITH_DROP",
+  "category": "F_B",
+  "product_type": "Nuoc_dong_chai_lon",
+  "style_tag": [],
+  "prompt_base": "Studio shot with museum-like stillness. One small whiskey bottle stands perfectly centered on a matte dark background. Camera angle: low and front-facing. Lighting: directional from top-left (10:00), casting a sharp-edged shadow behind and to the right. No environment, no props, no distractions — just the object and the space. Background: deep matte charcoal with no gradient. Surface: satin black with a slight soft reflection under bottle base. Lighting: controlled and harsh-edged, giving the bottle a defined silhouette. Atmosphere: bold, premium, minimal, silent. None. 1 hero item: 100ml small-format whiskey bottle Shape: square-shouldered, squat profile with thick base Position: centered and upright in frame None. Background and bottle only. Material: clear glass bottle showing golden-amber whiskey inside Cap: dark metal twist cap with matte finish Label: small square, cream background, serif wordmark centered Label color: aged gold (#C9A469) text on off-white background Liquid: rich amber tone, no bubbles or movement  Visual Details: Glass edges are rim-lit on both sides Shadow cast clearly on the right Subtle internal glow at bottom of bottle No fog, no condensation, no visual noise",
+  "negative_prompt": "No people, no hands, no pouring, no cups, no ice, no cork popping, no wood texture, no bar scene, no fruit, no typography overlay, no background design, no dust, no dramatic gradient, no condensation.",
+  "model": "imagen4",
+  "dominant_colors": {
+    "main": "#1F1F1F",
+    "accent": "#D3A260"
+  },
+  "overlay": {
+    "text": {
+      "headline": {
+        "text_key": "main_text",
+        "font": "Futura-Bold.ttf",
+        "size": 28,
+        "color": "#D3A260",
+        "x": 100,
+        "y": 100
+      },
+      "cta": {
+        "text_key": "cta",
+        "font": "Futura-Regular.ttf",
+        "size": 20,
+        "color": "#1F1F1F",
+        "x": 100,
+        "y": 150
+      }
+    },
+    "logo": {
+      "x": 1400,
+      "y": 1300,
+      "width": 150,
+      "height": 50
+    }
+  }
+}

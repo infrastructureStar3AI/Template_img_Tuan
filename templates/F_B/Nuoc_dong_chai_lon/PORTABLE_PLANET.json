@@ -1,0 +1,39 @@
+{
+  "name": "PORTABLE_PLANET",
+  "category": "F_B",
+  "product_type": "Nuoc_dong_chai_lon",
+  "style_tag": [],
+  "prompt_base": "Zen-inspired studio visual. Central vertical bottle floats slightly above a soft glowing floor. Eye-level perspective. Inside the bottle is a serene miniature floating garden — a shallow pond with lily pads, spiraling cucumber vines, and a single blooming jasmine tree that bends gently inwards. Mist swirls lightly around the base. The whole scene feels weightless, calming, and purified. Backdrop: seamless matte soft-beige to pastel-green gradient. Diffused lighting from top-left (10:30), simulating morning light. Minimal stage, with a faint glow circle beneath the bottle for gentle levitation illusion. Background texture: subtle paper grain, inspired by washi. None. 1 hero item: 400ml tall cylindrical glass detox bottle with wide mouth cap 2 interior elements:  Central pond-like surface with reflective water, lily pads, and cucumber slice \"rafts\"  Slender jasmine tree with spiraling leaves and white blossoms, reaching slightly toward the bottle top Ingredient icons on label: 🥒 cucumber • 🌼 jasmine • 💧 spring water  Infographic overlay (side or corner):  “pH 7.4 – Alkaline Balanced”  “Infused for 12 hrs • Cold Extracted”  “Caffeine Free • Unsweetened • No Preservatives”  Optional circular \"aura lines\" behind bottle representing the detox wave Shape: tall cylindrical glass bottle with thick base Material: ultra-clear glass with a slightly matte finish Cap: pale green aluminum with embossed brand sigil Label: only a horizontal strip across the middle — soft green on clear background, minimalist font  Inside the bottle:  Pond surface with floating cucumber slices  Soft ripples expanding from center  Jasmine tree curved from the base, white petals floating above the pond  Light mist whirls inside the lower third  Tiny koi-like ripple glints (optional detail for depth)",
+  "negative_prompt": "No tropical fruits, no splash, no dark shadows, no heavy gradient, no futuristic visual, no metallic elements, no ice cubes, no people, no condensation, no food pairing.",
+  "model": "imagen4",
+  "dominant_colors": {
+    "main": "#B9D7C5",
+    "accent": "#F6F4ED"
+  },
+  "overlay": {
+    "text": {
+      "headline": {
+        "text_key": "main_text",
+        "font": "Futura-Bold.ttf",
+        "size": 28,
+        "color": "#F6F4ED",
+        "x": 100,
+        "y": 100
+      },
+      "cta": {
+        "text_key": "cta",
+        "font": "Futura-Regular.ttf",
+        "size": 20,
+        "color": "#B9D7C5",
+        "x": 100,
+        "y": 150
+      }
+    },
+    "logo": {
+      "x": 1400,
+      "y": 1300,
+      "width": 150,
+      "height": 50
+    }
+  }
+}

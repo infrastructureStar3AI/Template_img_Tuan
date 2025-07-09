@@ -1,0 +1,39 @@
+{
+  "name": "FANTASY_POURSCAPE",
+  "category": "F_B",
+  "product_type": "Nuoc_dong_chai_lon",
+  "style_tag": [],
+  "prompt_base": "Wide cinematic shot. Dusk lighting. The entire scene is a surreal landscape where a giant transparent cocktail bottle is embedded into a glowing canyon. From its tilted mouth, a luminous stream of sparkling orange liquid flows like a glowing river, snaking across the land. Atmosphere is magical, still, and warm. Viewpoint: ¾ aerial, looking down at an angle from top-right. Landscape: canyon terrain with glowing cracks, subtle reddish dust  Liquid river flows from bottle’s opening like molten light  Light particles (gold, orange, soft pink) float in air  Background: sun setting behind distant ridges  Sky gradient: from lavender to golden rose  Terrain texture: stylized, low-saturation rocky surface  No urban elements, purely natural but fantastical Optional: 1 miniature human model (approx. 2% scale) stands near riverbank, gazing at the glowing stream — for sense of scale and emotion. Pose: arms raised, awe-inspired stance. 1 oversized hero item: transparent glass cocktail bottle (750ml)  Position: half-embedded into canyon wall, tilted 40 degrees  Mouth open, emitting liquid river  Label: oversized but cleanly printed, visible even from distance  Shape: tall cylindrical with rounded shoulders, silver twist cap (off) Floating dust particles glowing in riverlight  Subtle ripple distortion around where liquid hits ground  Steam-like mist rising from warm flow  Environment subtly reflects cocktail tone  No props, all elements derived from the product itself Glass: transparent with subtle reflection of sunset colors  Label: vertical layout, off-white with coral serif font  Liquid: glowing mandarin cocktail with light carbonation  Stream: semi-viscous flow with glowing veins, like lava or nectar  Texture: liquid sparkles with fine suspended gas bubbles  Visual detail: glass edge catches warm rim light from sunset",
+  "negative_prompt": "No real-world buildings, no glasses, no straws, no ice cubes, no people at normal scale, no ocean, no trees, no animals, no typography overlay on image, no smoke, no fire, no clutter, no neon signs, no metallic props.",
+  "model": "imagen4",
+  "dominant_colors": {
+    "main": "#F7944D",
+    "accent": "#C0443B"
+  },
+  "overlay": {
+    "text": {
+      "headline": {
+        "text_key": "main_text",
+        "font": "Futura-Bold.ttf",
+        "size": 28,
+        "color": "#C0443B",
+        "x": 100,
+        "y": 100
+      },
+      "cta": {
+        "text_key": "cta",
+        "font": "Futura-Regular.ttf",
+        "size": 20,
+        "color": "#F7944D",
+        "x": 100,
+        "y": 150
+      }
+    },
+    "logo": {
+      "x": 1400,
+      "y": 1300,
+      "width": 150,
+      "height": 50
+    }
+  }
+}

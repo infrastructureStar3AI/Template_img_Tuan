@@ -1,0 +1,39 @@
+{
+  "name": "INKED_TASTE_JOURNAL",
+  "category": "F_B",
+  "product_type": "Cake",
+  "style_tag": [],
+  "prompt_base": "Soft-side view, angled from 30° left. Golden hour light slanting in from the window. The cake is placed on a rustic wooden platform, surrounded by unfinished sketches – as if the artist is leaving the frame. The atmosphere is both classic and handmade. Wooden studio table by window. Open sketchpad in corner, pencil lines unfinished. Hand-drawn sketch of the cake is clipped to the drawing board next to it – half of it left unfinished. A cup of coffee is slightly cold. A pen slowly dribbles ink.  Props: lightly wrinkled canvas, stained hand towel, vase of dried flowers. None. (But implied presence: artist just stepped away.) 1 hero item: strawberry shortcake – side view, placed in the middle of a round wooden platform 2 supporting elements: pencil sketch (placed on the right, not yet finished) + cross-section sketch in faint ink floating behind the cake like a taste x-ray Pencil strokes spilling over the real cake, as if trying to draw the remaining flavor. A floating note (held horizontally by metal). The cake tilts slightly, creating a real shadow – the shadow is drawn again with soft pencil strokes. Shape: Layered shortcake with whole strawberries visible Material: Soft sponge, whipped cream, glazed strawberry halves Key Feature: Half real – half illustrated layer system shown in faint perspective overlay (labeled: “air pocket zone”, “moist core”, “fruit tension line”)",
+  "negative_prompt": "No vector icons, no commercial styling, no centered symmetry, no glossy props, no digital UI. Scene must feel like a real studio session caught mid-thought, where taste meets craft — and time pauses for flavor.",
+  "model": "imagen4",
+  "dominant_colors": {
+    "main": "#E8DCC4",
+    "accent": "#4C3B2C"
+  },
+  "overlay": {
+    "text": {
+      "headline": {
+        "text_key": "main_text",
+        "font": "Futura-Bold.ttf",
+        "size": 28,
+        "color": "#4C3B2C",
+        "x": 100,
+        "y": 100
+      },
+      "cta": {
+        "text_key": "cta",
+        "font": "Futura-Regular.ttf",
+        "size": 20,
+        "color": "#E8DCC4",
+        "x": 100,
+        "y": 150
+      }
+    },
+    "logo": {
+      "x": 1400,
+      "y": 1300,
+      "width": 150,
+      "height": 50
+    }
+  }
+}

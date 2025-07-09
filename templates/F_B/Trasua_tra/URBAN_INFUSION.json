@@ -1,0 +1,39 @@
+{
+  "name": "URBAN_INFUSION",
+  "category": "F_B",
+  "product_type": "Trasua_tra",
+  "style_tag": [],
+  "prompt_base": "     ",
+  "negative_prompt": "",
+  "model": "imagen4",
+  "dominant_colors": {
+    "main": "#CCCCCC",
+    "accent": "#FF0000"
+  },
+  "overlay": {
+    "text": {
+      "headline": {
+        "text_key": "main_text",
+        "font": "Futura-Bold.ttf",
+        "size": 28,
+        "color": "#FF0000",
+        "x": 100,
+        "y": 100
+      },
+      "cta": {
+        "text_key": "cta",
+        "font": "Futura-Regular.ttf",
+        "size": 20,
+        "color": "#CCCCCC",
+        "x": 100,
+        "y": 150
+      }
+    },
+    "logo": {
+      "x": 1400,
+      "y": 1300,
+      "width": 150,
+      "height": 50
+    }
+  }
+}

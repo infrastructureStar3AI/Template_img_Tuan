@@ -1,0 +1,21 @@
+[Overall Atmosphere]: whimsical anime-style food building illustration, soft warm tone, fantasy miniworld
+
+[Dominant Color]: warm orange, mustard yellow, and bread brown
+
+[General Environment]: a mini hotdog-shaped shop in a fantasy town made of food, placed on soft beige ground with playful shadows
+
+[Model Pose]: no humans, just tiny cartoon chefs and mini customers around
+
+[Product Placement]: hotdog reimagined as a kiosk – bun becomes the roof and counter, sausage part opens up as serving hatch, mustard lines curve like decorative banners
+
+[Detailed Product Description]: toasted hotdog bun used as a house roof, sausage becomes the wall, windows shaped like pickle slices, ketchup/mustard dripping like festive banners; entrance flanked by upright fries; signage held by skewers with red pepper icons
+
+[Supporting Elements]: ketchup bottle mailbox, tray of buns, menu chalkboard, animated steam lines from the sausage chimney
+
+[Logo Placement]: small brand sign on front counter, another mini banner flying from the rooftop
+
+[Ad Elements]: “OPEN NOW!” tag on flag, sticker “Only 25k!” on crate, speech bubble-style label with “Extra Cheese!”
+
+[Image Type]: hand-drawn anime-style illustration, clean lines, pastel palette, cozy and whimsical mood
+
+[Negative Prompt]: no realism, no photos, no 3D, no harsh lighting, no crowded background

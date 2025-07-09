@@ -1,0 +1,49 @@
+[Overall Atmosphere]
+Playful and cinematic — the child is inside a gigantic version of a modern living room. The floor is a textured rug with LEGO-sized fibers. A pair of adult sneakers (size 45) stands like buildings next to him. Soft afternoon sunlight enters from a high, out-of-frame window, casting long shadows.
+
+[Dominant Color]
+Main: Olive Green (#6A7F5F, 50%)
+Accent: Brick Red (#B0413E, 25%)
+Secondary: Off-White (#F4F4F4, 10%)
+
+[General Environment]
+The “sneaker street” runs between two giant shoes. In the background: a tipped-over soda can the size of a trash bin. A LEGO brick acts as a bench. A coiled phone cable snakes across the floor like a rope. A sock hangs from a chair leg like a tarp. The child appears like a tiny explorer in an urban canyon made of house items.
+
+[Model Pose]
+Child stands confidently with one foot resting on a coaster (used like a pedestal), hands in hoodie pockets, head tilted slightly with a grin. Hoodie bunched slightly at waist, sleeves pushed up. Lighting highlights fabric texture.
+
+[Product Placement]
+Hero item: Oversized-fit hoodie with kangaroo pocket, in olive green
+Supporting: Jogger pants with ribbed cuffs and side patch pockets; canvas slip-ons with blocky sole
+Accessories: Small red crossbody pouch worn diagonally across chest
+
+[Detailed Product Description]
+Shape: Relaxed, boxy silhouette
+Material: Cotton-blend fleece (hoodie), midweight jersey knit (pants)
+Key Feature:
+“Explorer ID” patch on sleeve
+Customizable velcro patch on chest pocket
+Ribbed cuffs and drop-shoulder design for comfort
+
+[Supporting Elements]
+Shoelaces as climbing ropes in background
+A LEGO minifig on the floor pointing upward
+Soda can lid reflecting light like a streetlamp
+
+[Logo Placement]
+Brand logo (embroidered) on chest patch, and printed size-label-like tag on pants cuff (visible when pants are cuffed up)
+
+[Advertising Integration]
+
+Main headline (top center):
+"EVERY ROOM IS A WORLD."
+→ Bold, playful sans-serif font, white on transparent speech bubble shape above soda can
+CTA (bottom left):
+"Sneaker Street Drop — Available Now"
+→ Written on coaster surface beside child, with an arrow painted like street graffiti
+
+[Image Type]
+Shot at f3.5, wide-angle lens (24mm), floor-level camera angle. High contrast between object scale and child’s figure. Warm tone color grading, natural shadows. Fabric textures crisp; oversized object surfaces slightly worn for realism.
+
+[Negative Prompt]
+Standard child portrait, blank white background, minimal props, clean empty studio, pastel lighting, neutral faces, symmetrical framing

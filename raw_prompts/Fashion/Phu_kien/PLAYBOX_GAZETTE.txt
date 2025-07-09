@@ -1,0 +1,42 @@
+[Overall Atmosphere]: Hyper-pop candy glow studio with glossy surfaces, neon rimlight and direct flash (saturation boosted 125%).
+
+[Dominant Color]: Main: Bubblegum Pink (#FF69B4, 60%), Accent: Electric Lime (#BFFF00, 25%), Secondary Accent: Sky Blue (#87CEEB, 10%).
+
+[General Environment]: Checkerboard floor with rainbow shimmer, inflatable background shapes, pastel toy crates, sticker-covered speaker in background.
+
+[Model Pose]: No human model — product displayed as floating mid-air, spinning slightly, with chain charm trailing like comet tail.
+
+[Product Placement]:
+
+1 hero item (AirPods case) in full front view, translucent glowing.
+
+1 side inset (zoom on charging port).
+
+1 floating sticker sheet in background with product face mascot.
+
+[Detailed Product Description]:
+Shape: Capsule contour with slightly rounded edges.
+Material: Soft TPU jelly with UV-reactive gloss.
+Key Feature: Glow-in-the-dark candy shimmer + clip-on mini mascot charm.
+
+[Supporting Elements]:
+
+Bubble FX scattered in background (opacity 30%).
+
+Cartoon lightning bolt FX behind product for pop.
+
+Mini disco ball and sticker explosion overlay.
+
+Tagline starburst (retro sticker style).
+
+[Logo Placement]:
+Front center — debossed bubble logo with raised neon edge, +1 sticker label.
+
+[Advertising Integration]:
+Main Text: "JELLY DROP INCOMING!"
+Font: Comic Neue Bold Italic 28pt
+CTA: "✨ Grab Yours Now ✨" inside chat-bubble sticker in Electric Lime gradient.
+
+[Image Type]: Sony Alpha 7R V @ f/2.5, direct flash with bounce fill, vivid profile enabled, vignette off, soft grain added.
+
+[Negative Prompt]: Minimalist setting, low contrast, neutral colors, natural light, realistic shadows, serious styling, mature tones.

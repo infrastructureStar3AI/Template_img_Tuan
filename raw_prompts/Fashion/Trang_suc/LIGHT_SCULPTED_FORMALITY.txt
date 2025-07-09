@@ -1,0 +1,48 @@
+[Overall Atmosphere]
+Still-life silence.
+Single-source lighting (1:1 ratio) from above-right, diffused through frosted acrylic. Gentle fall-off, smooth shadows, minimalist shadowscape. Timeless calm.
+
+[Dominant Color]
+Main: Soft Champagne (#F9E6D3, 60%)
+Accent: Polished Rose Gold (#B76E79, 25%)
+
+[General Environment]
+Matte ceramic pedestal (circular, 30cm), placed in seamless beige infinity cove.
+Silk drapery folded beside, a single dried protea flower rests near corner.
+Backdrop softened with subtle paper gradient.
+
+[Model Pose]
+None. Object-focused. Jewelry displayed as standalone sculpture.
+
+[Product Placement]
+1 hero item: Asymmetrical rose gold bangle with gemstone inlay
+2 supporting pieces (matching earrings, pendant) — placed around in golden triangle layout
+
+[Detailed Product Description]
+Shape: Fluid-loop structure, open-ended
+Material: 14k rose gold, inlaid with translucent milky quartz
+Key Feature: Micro-engraved inner ridge, visible through mirror reflection on base surface
+
+[Supporting Elements]
+• Soft shadow from earring curves reflects onto ceramic
+• Hair-thin silk thread subtly connects pendant to top edge (invisible at distance)
+• Dried flower petal echoes quartz translucency
+• Bokeh shimmer from micro-glass dust at edge, captured at f/2.8
+
+[Logo Placement]
+Debossed into pedestal ring, tone-on-tone
+
+Subtle watermark near bottom-left corner (2% opacity)
+
+[Ad Elements]
+Main Text: "WHERE SILENCE MEETS SPARK" (font: Didot Italic, Rose Gold)
+CTA: "Uncover elegance →" (QR code embossed onto ceramic pedestal, edge-aligned)
+Logo: Tone-matched monogram, center-bottom
+Badge: "Edition 01 // Quartz Curve" — soft-stamped into backdrop paper
+
+[Image Type]
+Phase One medium format shot @ f/5.6.
+70mm lens. Absolute color accuracy. Retouching only for dust/polish. Natural reflections preserved.
+
+[Negative Prompt]
+No model, no clutter, no background props, no colored gels, no commercial taglines, no product grouping beyond trio.

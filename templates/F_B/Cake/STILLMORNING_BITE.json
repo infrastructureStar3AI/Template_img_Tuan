@@ -1,0 +1,39 @@
+{
+  "name": "STILLMORNING_BITE",
+  "category": "F_B",
+  "product_type": "Cake",
+  "style_tag": [],
+  "prompt_base": "Rustic calm in a forest morning — dappled sunlight filters through autumn leaves, with soft beams scattering across an uneven woodland table. The mood is organic and romantic, like a secret meal shared in the woods after dawn. A handcrafted wooden picnic table sits under a canopy of amber-orange foliage. Fallen leaves scatter naturally across the tabletop. The tableware is mismatched ceramic and vintage silver, giving it a nostalgic, earthy tone. Mushrooms grow beside the table legs, and tiny birds perch nearby. (No human model visible.) Only a shadow of a person’s arm is seen from the side, pouring warm cider from a glass kettle into a fogged mug. Steam gently rises, catching the sunlight. 1 hero item: A stacked savory-sweet toast tower with roasted figs, brie, toasted walnuts, and honey drizzle  2 supporting dishes: A stoneware bowl of pear compote and a folded linen napkin with gold flatware Mushrooms, chestnuts, and acorns casually placed around the scene  A foggy glass of cider with clove and orange peel inside  Faint glimmers of morning dew on the wood surface and ceramic glaze Shape: Irregular toast layers, rustic and hearty, stacked like forest bark  Material: Dense country loaf with grill marks, creamy melted cheese, glistening fig slices  Key Feature: Honey dripping from a wooden honey dipper, suspended in motion between fig and toast",
+  "negative_prompt": "No studio lighting, no marble tables, no artificial garnish, no monochrome background, no overhead flat lay, no clean-edge plates",
+  "model": "imagen4",
+  "dominant_colors": {
+    "main": "#D7A86E",
+    "accent": "#4B5E3C"
+  },
+  "overlay": {
+    "text": {
+      "headline": {
+        "text_key": "main_text",
+        "font": "Futura-Bold.ttf",
+        "size": 28,
+        "color": "#4B5E3C",
+        "x": 100,
+        "y": 100
+      },
+      "cta": {
+        "text_key": "cta",
+        "font": "Futura-Regular.ttf",
+        "size": 20,
+        "color": "#D7A86E",
+        "x": 100,
+        "y": 150
+      }
+    },
+    "logo": {
+      "x": 1400,
+      "y": 1300,
+      "width": 150,
+      "height": 50
+    }
+  }
+}

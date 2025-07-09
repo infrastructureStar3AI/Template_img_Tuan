@@ -1,0 +1,39 @@
+{
+  "name": "WARMCORE_SOFTSHELL",
+  "category": "Fashion",
+  "product_type": "Hangngay_Duongpho",
+  "style_tag": [],
+  "prompt_base": "5:10PM golden hour. Backlight from low sun. Light haze in air. Warm tone with 2:1 soft side fill. Calm, private, intimate. Narrow alley corner — cracked wall paint, exposed pipe, climbing plant trailing from rooftop, shadows from overhead powerlines. Female model (Vietnamese-French, mid 20s), leaning one shoulder against wall, face turned toward camera, soft gaze. Right hand in pocket, breeze lifts hem of shirt slightly. 1 hero item (sand-toned short-sleeve button-up shirt) 2 supporting pieces (olive relaxed trousers + small leather belt pouch) Wall texture behind model, climbing plant shadows across shirt, breeze moving shirt hem (1/250s), muted reflection in nearby window Shape: Boxy shirt with straight hem, elbow-length sleeves Material: Garment-dyed linen blend, slightly wrinkled finish Key Feature: Hidden mother-of-pearl buttons, tonal topstitch",
+  "negative_prompt": "No studio light, no neon, no cold tones, no dramatic poses, no artificial shadows, no digital props.",
+  "model": "imagen4",
+  "dominant_colors": {
+    "main": "#E4D9C5",
+    "accent": "#8A9776"
+  },
+  "overlay": {
+    "text": {
+      "headline": {
+        "text_key": "main_text",
+        "font": "Futura-Bold.ttf",
+        "size": 28,
+        "color": "#8A9776",
+        "x": 100,
+        "y": 100
+      },
+      "cta": {
+        "text_key": "cta",
+        "font": "Futura-Regular.ttf",
+        "size": 20,
+        "color": "#E4D9C5",
+        "x": 100,
+        "y": 150
+      }
+    },
+    "logo": {
+      "x": 1400,
+      "y": 1300,
+      "width": 150,
+      "height": 50
+    }
+  }
+}

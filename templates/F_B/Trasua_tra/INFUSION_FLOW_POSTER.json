@@ -1,0 +1,39 @@
+{
+  "name": "INFUSION_FLOW_POSTER",
+  "category": "F_B",
+  "product_type": "Trasua_tra",
+  "style_tag": [],
+  "prompt_base": "Vertical infographic poster in flat 2D vector illustration style. Warm, intelligent, and health-driven mood. Stylized matcha swirl flows from the cup, shaped like an upward ribbon path. A3 layout (portrait). Background is gradient matte green, with subtle circular dot overlays and faint leaf vein motifs. All text and visuals are clean, outlined, and proportionally spaced. Energetic but composed. No physical setting. The entire background is a soft gradient (deep green to mossy lime) with radial dot textures. From the cup at the bottom-center, a smooth matcha stream swirls upward in an S-shaped path, carrying illustrated ingredients and embedded infographic bubbles. Side zones are used for labels, benefits, charts, and data. None. The matcha swirl is the main subject. The flow itself becomes the visual character. 1 hero item: short transparent glass of matcha latte, placed bottom-center 2 supporting objects:  Bamboo matcha whisk (bottom-left, partially resting against cup)  Wooden spoon with powder mound (bottom-right, tilted) The matcha spiral carries a sequence of orbiting illustrated components:  Tea leaves (Camellia sinensis) – light leaf outlines, curved with motion  Matcha powder cloud – represented as a soft burst of green particles mid-path  Catechin molecule icon – placed beside leaf with label  Clock icon (5.5hr focus) – near middle swirl bend  Pie chart (40% Vitamin A) – just above cup  Sparkle dots and leaf fragments scattered along spiral path  Floating benefit tags connected to components:  “137x Antioxidants” (beside swirl origin)  “40% Daily Vitamin A”  “5.5hr Focus Time”  “Calm Energy | Clean Burn | No Crash”  “Mental Clarity > Coffee”  Icons drawn in light, outlined style. Dotted lines connect text to each ingredient clearly. Cup shape: round-bottomed glass with thick rim and base Content: vibrant green liquid with visible froth layer on top, speckled foam effect Details: matcha stream bursts from center-top of cup, forms upward spiral with thick viscosity and energy droplets Powder inside spoon has light grain texture Whisk drawn with clean bamboo strokes, tan color with green staining",
+  "negative_prompt": "No human model, no 3D render, no real textures, no photorealism, no glass reflection, no shadows, no latte art, no foam overflow, no physical table or background. No photographic ingredients. No serif overload.",
+  "model": "imagen4",
+  "dominant_colors": {
+    "main": "#6A8D59",
+    "accent": "#DCEFC7"
+  },
+  "overlay": {
+    "text": {
+      "headline": {
+        "text_key": "main_text",
+        "font": "Futura-Bold.ttf",
+        "size": 28,
+        "color": "#DCEFC7",
+        "x": 100,
+        "y": 100
+      },
+      "cta": {
+        "text_key": "cta",
+        "font": "Futura-Regular.ttf",
+        "size": 20,
+        "color": "#6A8D59",
+        "x": 100,
+        "y": 150
+      }
+    },
+    "logo": {
+      "x": 1400,
+      "y": 1300,
+      "width": 150,
+      "height": 50
+    }
+  }
+}

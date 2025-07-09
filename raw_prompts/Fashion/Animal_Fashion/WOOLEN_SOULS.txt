@@ -1,0 +1,55 @@
+[Overall Atmosphere]:
+Dreamy editorial set, pale blue gradient background
+Backlit haze, spotlight on subject, gentle floor fog
+Soft lens flare near the brooch
+
+[Dominant Color]:
+Main: Crochet-wrapped white rabbit (#F6F6F6 yarn, 70%)
+Accent: Sheer silver tulle cape (#D8D8D8, 25%)
+Highlight: Crystal brooch detail (#E2E8F0, 5%)
+
+[General Environment]:
+Minimal set: smooth surface with soft shadows under rabbit
+Sheer tulle puddles gently on the floor
+One hand from a human model reaching in from the edge, adjusting cape
+
+[Model Pose]:
+Rabbit in mid-hop — front paw lifted, back leg stretched
+Ears upright, slightly asymmetrical
+Eyes glossy black (real), yarn wraps form accurate muscle shapes
+Head tilted, as if responding to sound
+
+[Product Placement]:
+Hero item: real silver tulle cape flows behind rabbit, clasped at neck
+Cape pinned with large crystal brooch
+Tulle moves with rabbit’s motion, catches light behind
+
+[Detailed Product Description]:
+Rabbit fully wrapped in soft crochet yarn
+Yarn fibers left slightly loose at joints and neck for texture
+Paws and ears defined, but clearly handmade
+No visible skin — full yarn coverage, true to rabbit anatomy
+Cape made of real fashion-grade tulle, crystal reflective under light
+
+[Supporting Elements]:
+Floating text: “WOOLEN SOULS 09” in silver serif
+Soft reflection of rabbit on polished white floor
+Crystal sparkle adds magazine cover polish
+
+[Logo Placement]:
+Tiny “WS” stitched on inside edge of cape
+Crystal brooch has engraved brand name
+
+[Advertising Integration]:
+Main Text:
+WOOLEN SOULS // 09 – Stitch of Grace
+CTA:
+Uncover the handcrafted couture → loop.pet/ws09
+
+[Image Type]:
+High-resolution fashion editorial
+Shallow depth of field, focus on rabbit’s eyes and cape clasp
+Clean, cinematic color grading
+
+[Negative Prompt]:
+No toy look. No smooth fur. No fake eyes. No pastel CGI. No static pose. No clutter. No stylized cartoon.

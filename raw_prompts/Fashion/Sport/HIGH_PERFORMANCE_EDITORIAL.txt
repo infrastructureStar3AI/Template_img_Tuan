@@ -1,0 +1,42 @@
+[Overall Atmosphere]
+Mid-action freeze frame. Studio lighting (3-light setup) with crisp flash (1/2000s) and deep directional shadows. Slight sweat shimmer. Feels intense and clean.
+
+[Dominant Color]
+Main: Jet Black (#1A1A1A, 60%)
+Accent: Electric Red (#D72638, 25%)
+
+[General Environment]
+Minimalist indoor training zone — matte black rubber floor, wall-mounted resistance bands, subtle chalk dust in the air. No clutter.
+
+[Model Pose]
+Female model (African-French, early 30s), mid-jump squat, arms pushing upward, jaw tight, left shoe just off the floor. Visible muscle flex. Tight framing, body filling 2/3 of image.
+
+[Product Placement]
+1 hero item (high-support jet black sports bra)
+2 supporting: electric red compression leggings + performance wristbands
+
+[Detailed Product Description]
+Shape: Contour-fit with racerback
+Material: Moisture-wicking poly-elastane blend
+Key Feature: Thermo-bonded mesh zones on chest & back for breathability
+
+[Supporting Elements]
+Motion sweat shine on collarbone, shoe sole lifted (frozen @ 1/2000s), chalk particles catching sidelight, matte wall grid in background
+
+[Logo Placement]
+
+White heat-transfer logo, back shoulder blade
+
+Red micro-logo on waistband seam, barely visible at motion
+
+[Ad Elements]
+Main Text: "MOVE. BREAK. BUILD." (font: League Spartan Bold, white, all-caps)
+CTA: "Own your pace →" (QR code, bottom-right)
+Logo: White vector logo, top-left corner
+Badge: "CORE SERIES / DROP 01" stamp style, under slogan
+
+[Image Type]
+Full-frame DSLR, f/4.5, ISO 320, shutter 1/2000s. High-speed sync. Post: sharpness boosted, contrast curve pulled hard, shadows clipped.
+
+[Negative Prompt]
+No blur, no softness, no pastel, no smile, no posing, no accessories, no distractions.

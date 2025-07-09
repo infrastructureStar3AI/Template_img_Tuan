@@ -1,0 +1,72 @@
+[Overall Atmosphere]
+
+Golden hour desert basin. Soft orange haze.
+
+Warm directional sunlight from top-left, long shadows. Air slightly dusty. Mild wind motion across ground.
+[Dominant Color]
+
+Main: Bone White (#F9F6F1, 60%)
+
+Accent: Desert Rust (#C26A3B, 25%)
+[General Environment]
+
+Open construction zone on dry desert ground. Massive sneaker (25m long) placed on embedded metal rails.
+
+Around it, dozens of tiny humanoid workers (8–10 cm) in orange suits operate:
+
+– welding mesh upper,
+
+– painting midsole,
+
+– climbing scaffolds.
+
+Overhead drone cranes hover.
+[Model Pose]
+
+None — product dominates frame.
+[Product Placement]
+
+1 hero item: Performance running sneaker
+
+— constructed mid-shot (toebox opened, sole suspended)
+
+No supporting item.
+[Detailed Product Description]
+
+Shape: Aero-wrapped form, asymmetric sole contour
+
+Material: Honeycomb-knit mesh upper, gel-foam dynamic core midsole
+
+Key Feature: Midsole “RIB-LOCK” unit — shown open, with internal stabilizer skeleton
+[Supporting Elements]
+
+• Zoom bubble: worker torching sole edge, sparks flying
+
+• Crane carries logo piece, about to be attached on side
+
+• One crew suspended from laces, stitching eyelets
+
+• Scaffold labeled “SECTOR_17” wraps heel
+
+• Small LED banner: “ETA: 02h 13m”
+[Logo Placement]
+
+Sideplate: Logo panel (20cm) being bolted on
+Insole: Imprint visible in overhead drone shot
+[Ad Elements]
+
+Main Text: "BUILT. NOT MADE." (font: Futura Extra Bold, Desert Rust)
+
+CTA: "Ground-up performance →" (QR code projected from scaffold banner)
+
+Logo: Flying drone casts logo-shaped shadow on ground
+
+Badge: "MEGAFLOW SERIES_01" (white stamp, top-right)
+[Image Type]
+
+Full CGI composite. 35mm wide shot, f/4.5, golden hour grading.
+
+Desert dust & sunlight bloom added in post. Depth-of-field slight on distant workers.
+[Negative Prompt]
+
+No real humans, no indoor studio, no minimalism, no floating product, no commercial showroom vibe.

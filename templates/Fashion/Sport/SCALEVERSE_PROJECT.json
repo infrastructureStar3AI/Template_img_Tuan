@@ -1,0 +1,39 @@
+{
+  "name": "SCALEVERSE_PROJECT",
+  "category": "Fashion",
+  "product_type": "Sport",
+  "style_tag": [],
+  "prompt_base": "Golden hour desert basin. Soft orange haze.  Warm directional sunlight from top-left, long shadows. Air slightly dusty. Mild wind motion across ground. Open construction zone on dry desert ground. Massive sneaker (25m long) placed on embedded metal rails.  Around it, dozens of tiny humanoid workers (8–10 cm) in orange suits operate:  – welding mesh upper,  – painting midsole,  – climbing scaffolds.  Overhead drone cranes hover. None — product dominates frame. 1 hero item: Performance running sneaker  — constructed mid-shot (toebox opened, sole suspended)  No supporting item. • Zoom bubble: worker torching sole edge, sparks flying  • Crane carries logo piece, about to be attached on side  • One crew suspended from laces, stitching eyelets  • Scaffold labeled “SECTOR_17” wraps heel  • Small LED banner: “ETA: 02h 13m” Shape: Aero-wrapped form, asymmetric sole contour  Material: Honeycomb-knit mesh upper, gel-foam dynamic core midsole  Key Feature: Midsole “RIB-LOCK” unit — shown open, with internal stabilizer skeleton",
+  "negative_prompt": "No real humans, no indoor studio, no minimalism, no floating product, no commercial showroom vibe.",
+  "model": "imagen4",
+  "dominant_colors": {
+    "main": "#F9F6F1",
+    "accent": "#C26A3B"
+  },
+  "overlay": {
+    "text": {
+      "headline": {
+        "text_key": "main_text",
+        "font": "Futura-Bold.ttf",
+        "size": 28,
+        "color": "#C26A3B",
+        "x": 100,
+        "y": 100
+      },
+      "cta": {
+        "text_key": "cta",
+        "font": "Futura-Regular.ttf",
+        "size": 20,
+        "color": "#F9F6F1",
+        "x": 100,
+        "y": 150
+      }
+    },
+    "logo": {
+      "x": 1400,
+      "y": 1300,
+      "width": 150,
+      "height": 50
+    }
+  }
+}

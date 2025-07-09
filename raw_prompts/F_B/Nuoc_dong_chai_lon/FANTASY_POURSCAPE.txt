@@ -1,0 +1,118 @@
+[Overall Atmosphere]
+Wide cinematic shot. Dusk lighting. The entire scene is a surreal landscape where a giant transparent cocktail bottle is embedded into a glowing canyon.
+From its tilted mouth, a luminous stream of sparkling orange liquid flows like a glowing river, snaking across the land.
+Atmosphere is magical, still, and warm. Viewpoint: ¾ aerial, looking down at an angle from top-right.
+
+[Dominant Color]
+Main: Sunset Orange (#F7944D, 60%)
+Accent: Deep Coral Red (#C0443B, 20%)
+
+[General Environment]
+Landscape: canyon terrain with glowing cracks, subtle reddish dust
+
+Liquid river flows from bottle’s opening like molten light
+
+Light particles (gold, orange, soft pink) float in air
+
+Background: sun setting behind distant ridges
+
+Sky gradient: from lavender to golden rose
+
+Terrain texture: stylized, low-saturation rocky surface
+
+No urban elements, purely natural but fantastical
+
+[Model Pose]
+Optional: 1 miniature human model (approx. 2% scale) stands near riverbank, gazing at the glowing stream — for sense of scale and emotion. Pose: arms raised, awe-inspired stance.
+
+[Product Placement]
+1 oversized hero item: transparent glass cocktail bottle (750ml)
+
+Position: half-embedded into canyon wall, tilted 40 degrees
+
+Mouth open, emitting liquid river
+
+Label: oversized but cleanly printed, visible even from distance
+
+Shape: tall cylindrical with rounded shoulders, silver twist cap (off)
+
+[Detailed Product Description]
+Glass: transparent with subtle reflection of sunset colors
+
+Label: vertical layout, off-white with coral serif font
+
+Liquid: glowing mandarin cocktail with light carbonation
+
+Stream: semi-viscous flow with glowing veins, like lava or nectar
+
+Texture: liquid sparkles with fine suspended gas bubbles
+
+Visual detail: glass edge catches warm rim light from sunset
+
+[Supporting Elements]
+Floating dust particles glowing in riverlight
+
+Subtle ripple distortion around where liquid hits ground
+
+Steam-like mist rising from warm flow
+
+Environment subtly reflects cocktail tone
+
+No props, all elements derived from the product itself
+
+[Logo Placement]
+On Product:
+
+Wordmark vertically printed on label in deep coral (#C0443B)
+
+Minimal serif type, no icon
+
+On Poster:
+
+Centered top of image
+
+Logo: simple serif brand name in coral red
+
+Size: approx. 3cm width
+
+No background block or effects
+
+[Ad Elements]
+Main Headline
+Text: SUNSET DRAIN
+Font: modern serif, all caps
+Size: 36pt
+Position: bottom-center
+Color: Deep Coral Red (#C0443B)
+
+Subheadline
+Text: Sparkling Nectar Cocktail – Wild Citrus, Hibiscus, Mint
+Font: italic serif
+Size: 16pt
+Color: Warm Taupe (#A67C6B)
+Position: directly under headline, 24px spacing
+
+Badge Text
+Text: 750ml • 11.5% ALC • Chill Before Sunset
+Font: small caps serif
+Size: 11pt
+Position: bottom-left
+Color: Light Copper (#B48C6E)
+
+Call to Action
+Text: Drink the Horizon →
+Font: italic serif
+Size: 11pt
+Position: bottom-right
+Color: light coral (#E28669)
+
+[Image Type]
+Camera: 3D-style render, cinematic scale
+Lens: 35mm equivalent, wide angle
+Focus: depth of field slightly soft, except sharp on bottle and flowing river
+Color Profile: warm-cinematic tone, sunset cast
+Light source: golden hour sun from horizon-left
+Post: high contrast, soft edges, no bloom
+
+[Negative Prompt]
+No real-world buildings, no glasses, no straws, no ice cubes, no people at normal scale, no ocean, no trees, no animals, no typography overlay on image, no smoke, no fire, no clutter, no neon signs, no metallic props.

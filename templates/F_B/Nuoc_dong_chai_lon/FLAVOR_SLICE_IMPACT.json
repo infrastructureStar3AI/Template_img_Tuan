@@ -1,0 +1,39 @@
+{
+  "name": "FLAVOR_SLICE_IMPACT",
+  "category": "F_B",
+  "product_type": "Nuoc_dong_chai_lon",
+  "style_tag": [],
+  "prompt_base": "Dramatic studio shot with high-contrast lighting. Background fades from deep mahogany brown to charcoal black. Visual tone is luxurious, intense, and refined — like a high-end liquor campaign. Floating in an atmospheric, smoky studio with backlit haze. Golden particles drift like aged dust. Hints of burning wood embers in the backdrop. No floor or external scenery — all focus is on the product. No human model. Bottle-only composition, suspended mid-air. A tall glass whiskey bottle (750ml) sliced diagonally into five rings. Each ring alternates between:  Cut bottle layer (with glossy label, embossed glass texture)  Raw oak barrel texture with seeping whiskey, or fire-charred wood  Rings rotate slightly as if in mid-explosion but aligned in a rising spiral, from wide base to tapered top. Whiskey droplets and smoke rise between the layers. Rising trails of oak smoke  Burnt cinnamon sticks and cracked peppercorn fragments suspended around  Embers flicker below base ring  A swirl of glowing whiskey particles orbiting the midsection Shape: Traditional Scottish whiskey bottle – wide base, tapering neck Material: Transparent amber glass, slightly smoked tint Label: Gold foil embossed with serif typeface (“HIGHLAND OAK”) + red wax seal element Cap: Heavy cork top on floating final ring  Each sliced section contains visual storytelling:  Middle ring contains translucent honey-golden liquid sloshing inside  Barrel staves and charring textures peek out from behind rings  Molten whiskey lighting glows through some segments",
+  "negative_prompt": "No broken glass. No background bar. No pouring scene. No bartender. No human hand. No wooden table or rustic props. No extra bottle. No glass cup. Avoid cartoons, illustrations, or fantasy. No product spillage.",
+  "model": "imagen4",
+  "dominant_colors": {
+    "main": "#D79D4D",
+    "accent": "#2B2B2B"
+  },
+  "overlay": {
+    "text": {
+      "headline": {
+        "text_key": "main_text",
+        "font": "Futura-Bold.ttf",
+        "size": 28,
+        "color": "#2B2B2B",
+        "x": 100,
+        "y": 100
+      },
+      "cta": {
+        "text_key": "cta",
+        "font": "Futura-Regular.ttf",
+        "size": 20,
+        "color": "#D79D4D",
+        "x": 100,
+        "y": 150
+      }
+    },
+    "logo": {
+      "x": 1400,
+      "y": 1300,
+      "width": 150,
+      "height": 50
+    }
+  }
+}

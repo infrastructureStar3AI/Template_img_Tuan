@@ -1,0 +1,39 @@
+{
+  "name": "NEON_LEFTOVERS",
+  "category": "Fashion",
+  "product_type": "Hangngay_Duongpho",
+  "style_tag": [],
+  "prompt_base": "Nighttime urban isolation. Mix of harsh flash + neon spill (4:1), background shadows deep and crushed. Feels like caught in transit. Alleyway behind convenience store — reflective puddles, brick wall with graffiti, fluorescent light from broken signboard flickering. Motorbike parked halfway out of frame. Androgynous model (Korean-German, short buzzcut), sitting on upturned crate, staring deadpan at camera. One leg extended, jacket off-shoulder. Flash catches face sharply. 1 hero item (black technical bomber jacket with reflective lining) 2 supporting pieces (cropped ribbed top + cargo mini skirt) — edgy layering, high-contrast fit Energy drink can tipped over, long reflective strip on ground, light trail from scooter @ 1/30s, puddle reflecting neon sign (mirrored text) Shape: Structured shoulders, cinched waist, exaggerated sleeve volume Material: Windproof nylon shell with mesh lining Key Feature: Iridescent zipper that glows under blue light",
+  "negative_prompt": "No natural light, no smiling, no cozy outfit, no greenery, no golden hour tones, no warm ambiance, no minimalism.",
+  "model": "imagen4",
+  "dominant_colors": {
+    "main": "#1A1A1A",
+    "accent": "#2DFEFF"
+  },
+  "overlay": {
+    "text": {
+      "headline": {
+        "text_key": "main_text",
+        "font": "Futura-Bold.ttf",
+        "size": 28,
+        "color": "#2DFEFF",
+        "x": 100,
+        "y": 100
+      },
+      "cta": {
+        "text_key": "cta",
+        "font": "Futura-Regular.ttf",
+        "size": 20,
+        "color": "#1A1A1A",
+        "x": 100,
+        "y": 150
+      }
+    },
+    "logo": {
+      "x": 1400,
+      "y": 1300,
+      "width": 150,
+      "height": 50
+    }
+  }
+}

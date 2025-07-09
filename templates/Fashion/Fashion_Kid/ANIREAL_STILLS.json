@@ -1,0 +1,39 @@
+{
+  "name": "ANIREAL_STILLS",
+  "category": "Fashion",
+  "product_type": "Fashion_Kid",
+  "style_tag": [],
+  "prompt_base": "Clean editorial look. A glossy children’s fashion magazine cover is split at the center — and the model literally steps out from it. Fragments of paper curl back from the tear, with headlines still visible. Backdrop is a large vertical magazine cover print with full layout: masthead, date, feature lines, barcode. Child steps out through a vertical tear in the center. Studio floor outside is clean and reflective. Front-facing. Walking directly toward camera. One hand brushing back hair. Confident, fashion-week mini look. Hero: Asymmetric pleated dress Supporting: Mid-calf socks, glossy derby shoes Accessory: Mini handbag with metal logo – Tear curls show text layers beneath – Headlines: “Future Icons”, “Mini Vogue Moment” – Barcode warped at corner – Masthead (“K!D MODE”) broken across child’s chest – Dress: Soft twill with asymmetric hem, high waist, contrast belt – Socks: Ribbed knit with logo stripe – Shoes: Polished leather, buckle strap – Bag: Metal logo charm, structured body",
+  "negative_prompt": "",
+  "model": "imagen4",
+  "dominant_colors": {
+    "main": "#F8F8F8",
+    "accent": "#F37CB0"
+  },
+  "overlay": {
+    "text": {
+      "headline": {
+        "text_key": "main_text",
+        "font": "Futura-Bold.ttf",
+        "size": 28,
+        "color": "#F37CB0",
+        "x": 100,
+        "y": 100
+      },
+      "cta": {
+        "text_key": "cta",
+        "font": "Futura-Regular.ttf",
+        "size": 20,
+        "color": "#F8F8F8",
+        "x": 100,
+        "y": 150
+      }
+    },
+    "logo": {
+      "x": 1400,
+      "y": 1300,
+      "width": 150,
+      "height": 50
+    }
+  }
+}

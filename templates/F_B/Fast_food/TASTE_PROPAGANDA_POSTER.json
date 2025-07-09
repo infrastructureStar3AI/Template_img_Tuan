@@ -1,0 +1,39 @@
+{
+  "name": "TASTE_PROPAGANDA_POSTER",
+  "category": "F_B",
+  "product_type": "Fast_food",
+  "style_tag": [],
+  "prompt_base": "intense wartime propaganda poster, bold and militant tone, retro screenprint texture, sharp graphic composition with radial power lines and a commanding presence symbolic battlefield background — stylized sun rays radiating from center, flanked by silhouette hills, marching troops made of stylized fries, and a waving flag embedded with a chicken leg icon - Central figure: **a heroic soldier wearing a helmet shaped like a crispy chicken wing**, standing tall on a pile of burger wrappers   - One arm raised high, **firmly gripping a giant fried drumstick like the Statue of Liberty holds her torch**   - Other hand clenched at his chest, in salute or pledge pose   - Head turned slightly upward with intense expression — eyes glowing with purpose - **Fried chicken drumstick** enlarged, detailed texture: crispy uneven coating, visible seasoning flakes, slightly oily shine   - Logo of the fictional republic engraved onto the crust of the drumstick   - A tray of golden fries resting at soldier's feet, with a soda cup tipped over, releasing cola in form of a national banner - Background rays in sunburst pattern behind the chicken drumstick   - Two banners waving on the sides:     Left: “CRUNCH IS FREEDOM”     Right: “NO MEAL LEFT BEHIND”   - Armband on soldier reads: “FFG” (Fried For Glory) - Chicken skin rendered in stencil style: jagged golden textures, black drop shadows   - Breading flaking off as starburst shapes   - Fries lined in marching rows like troops   - Sauce packet shaped like a military badge hanging from soldier’s belt",
+  "negative_prompt": "- No realistic food photos, no soft lighting, no modern ad composition, no lifestyle imagery, no pastel, no cute mascot style",
+  "model": "imagen4",
+  "dominant_colors": {
+    "main": "#CCCCCC",
+    "accent": "#FF0000"
+  },
+  "overlay": {
+    "text": {
+      "headline": {
+        "text_key": "main_text",
+        "font": "Futura-Bold.ttf",
+        "size": 28,
+        "color": "#FF0000",
+        "x": 100,
+        "y": 100
+      },
+      "cta": {
+        "text_key": "cta",
+        "font": "Futura-Regular.ttf",
+        "size": 20,
+        "color": "#CCCCCC",
+        "x": 100,
+        "y": 150
+      }
+    },
+    "logo": {
+      "x": 1400,
+      "y": 1300,
+      "width": 150,
+      "height": 50
+    }
+  }
+}

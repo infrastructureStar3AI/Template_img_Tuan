@@ -1,0 +1,49 @@
+[Overall Atmosphere]: intense wartime propaganda poster, bold and militant tone, retro screenprint texture, sharp graphic composition with radial power lines and a commanding presence
+
+[Dominant Color]: deep red, golden yellow, matte black — limited palette for high impact, vintage poster ink texture
+
+[General Environment]: symbolic battlefield background — stylized sun rays radiating from center, flanked by silhouette hills, marching troops made of stylized fries, and a waving flag embedded with a chicken leg icon
+
+[Model Pose]:  
+- Central figure: **a heroic soldier wearing a helmet shaped like a crispy chicken wing**, standing tall on a pile of burger wrappers  
+- One arm raised high, **firmly gripping a giant fried drumstick like the Statue of Liberty holds her torch**  
+- Other hand clenched at his chest, in salute or pledge pose  
+- Head turned slightly upward with intense expression — eyes glowing with purpose
+
+[Product Placement]:  
+- **Fried chicken drumstick** enlarged, detailed texture: crispy uneven coating, visible seasoning flakes, slightly oily shine  
+- Logo of the fictional republic engraved onto the crust of the drumstick  
+- A tray of golden fries resting at soldier's feet, with a soda cup tipped over, releasing cola in form of a national banner
+
+[Detailed Product Description]:  
+- Chicken skin rendered in stencil style: jagged golden textures, black drop shadows  
+- Breading flaking off as starburst shapes  
+- Fries lined in marching rows like troops  
+- Sauce packet shaped like a military badge hanging from soldier’s belt
+
+[Supporting Elements]:  
+- Background rays in sunburst pattern behind the chicken drumstick  
+- Two banners waving on the sides:  
+  Left: “CRUNCH IS FREEDOM”  
+  Right: “NO MEAL LEFT BEHIND”  
+- Armband on soldier reads: “FFG” (Fried For Glory)
+
+[Logo Placement]:  
+- “FRIED FOR GLORY” in massive stencil font at bottom, distressed effect  
+- Fast food brand name stamped like a seal in bottom-left corner, inside a fake nation emblem with fork/sword crossover
+
+[Ad Elements]:  
+- Main slogan at top center:  
+  **“JOIN THE FRY FRONTLINE!”**  
+- Secondary tagline diagonally across the lower third:  
+  **“ONLY 89K – ENLIST & EAT”**  
+- Optional red badge on corner:  
+  **“NATIONAL CRUNCH CAMPAIGN – LIMITED TIME ONLY”**
+
+[Image Type]:  
+- 2D stylized propaganda illustration, bold vector lines and halftone shading  
+- No perspective depth, all elements stacked and symbolic  
+- Mimics Soviet or WWII USA poster style with ironic glorification of fast food
+
+[Negative Prompt]:  
+- No realistic food photos, no soft lighting, no modern ad composition, no lifestyle imagery, no pastel, no cute mascot style

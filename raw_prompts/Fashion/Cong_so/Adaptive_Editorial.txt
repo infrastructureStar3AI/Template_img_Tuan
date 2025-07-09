@@ -1,0 +1,24 @@
+[Overall Atmosphere]: Bold sophistication with 2:1 lighting ratio.
+
+[Dominant Color]: Main: Pantone Midnight Navy (70%), Accent: Burnished Gold (#B89778, 20%).
+
+[General Environment]: Minimalist indoor space with frosted glass backdrop, polished concrete floor, 10% atmospheric haze.
+
+[Model Pose]: 3/4 view, power pose with one hand adjusting cufflink, head tilted 10°, confident smirk.
+
+[Product Placement]: 1 hero item (tailored single-breasted blazer) + 2 supporting pieces (crisp dress shirt, tailored trousers) in centered focus arrangement.
+
+[Detailed Product Description]:
+Shape: Sleek contoured fit with 12° angular cuts.
+Material: Wool-silk blend (85% opacity).
+Key Feature: Notched lapel with gold-threaded stitching.
+
+[Supporting Elements]: Sleek black desk with a single leather-bound notebook, fabric motion at 1/250s.
+
+[Logo Placement]: Left collar, 2cm, tonal stitch, 0.3mm depth.
+
+[Advertising Integration]: Main Text: "DEFINE YOUR MOMENT" in Helvetica Neue 24pt (Burnished Gold CTA: "Shop the Vibe →").
+
+[Image Type]: Canon EOS R5 @ f/9, retouched skin @ 20% opacity.
+
+[Negative Prompt]: Grainy textures, unbalanced lighting, cluttered backgrounds, unnatural color shifts, low-quality details, overly staged poses.

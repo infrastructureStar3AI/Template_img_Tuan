@@ -1,0 +1,39 @@
+{
+  "name": "TAILORED_INSTINCT",
+  "category": "Fashion",
+  "product_type": "Animal_Fashion",
+  "style_tag": [],
+  "prompt_base": "High-end boutique indoor studio with warm, soft lighting and clean minimalist background in cream tones. Smooth hardwood floor with subtle shadows, minimal props including a small velvet pedestal and a brass coat rack holding matching dog accessories. Small breed dog (e.g., Yorkshire Terrier) standing proudly on pedestal, facing camera with head slightly tilted, ears perked up, tail relaxed. Dog wears a tailored cape with velvet texture and gold embroidered trim. Supporting items: matching velvet bow tie and leather collar with gold buckle. Close-up of embroidered details on cape edge. Matching accessories displayed on the coat rack. Soft velvet cushion on the pedestal to highlight luxury. Cape has a classic tailored cut with rounded edges, designed specifically to fit small dog proportions.  Made of soft velvet with hand-embroidered gold trim along edges.  Adjustable velcro closure under the chest for easy wear.",
+  "negative_prompt": "No human clothing, no costume elements, no messy background, no cartoonish styling, no distracting props.",
+  "model": "imagen4",
+  "dominant_colors": {
+    "main": "#F5F1E9",
+    "accent": "#800020"
+  },
+  "overlay": {
+    "text": {
+      "headline": {
+        "text_key": "main_text",
+        "font": "Futura-Bold.ttf",
+        "size": 28,
+        "color": "#800020",
+        "x": 100,
+        "y": 100
+      },
+      "cta": {
+        "text_key": "cta",
+        "font": "Futura-Regular.ttf",
+        "size": 20,
+        "color": "#F5F1E9",
+        "x": 100,
+        "y": 150
+      }
+    },
+    "logo": {
+      "x": 1400,
+      "y": 1300,
+      "width": 150,
+      "height": 50
+    }
+  }
+}

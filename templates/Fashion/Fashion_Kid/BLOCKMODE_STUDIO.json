@@ -1,0 +1,39 @@
+{
+  "name": "BLOCKMODE_STUDIO",
+  "category": "Fashion",
+  "product_type": "Fashion_Kid",
+  "style_tag": [],
+  "prompt_base": "Indoor LEGO-built art classroom. Background built from colorful bricks resembling easels, sketch pads, paint pots, and windows. Light beams in from a translucent-panel “window”, soft shadows cast on LEGO tile floor. Studio has LEGO pencil cups, half-painted brick-built canvases, and a “splatter wall” made from layered colored plates. Paper clippings (brick sim) lie scattered on floor. A LEGO stool sits nearby, slightly knocked over. LEGO minifig stands with palette in one hand and brush in the other. Body leans slightly left. One foot up on a step brick. Facial expression includes paint mark on cheek (printed). Jacket slightly open, showing tee underneath. Hero item: Real-world denim painter jacket, boxy fit, 2 chest pockets with flap, contrast topstitching Supporting: Unisex kids’ canvas pants, tapered fit, elastic waist, printed brush stroke on lower leg Accessories: Small canvas crossbody bag with removable velcro patch, color-matched socks, art-themed bucket hat Behind figure: brick-built mini easel, cup with LEGO brush, translucent paint spill effect made with curved bricks, scattered paper and crayons Shape: Relaxed boxy silhouette, soft-shoulder construction  Material: 100% cotton denim for jacket, midweight cotton-twill for pants  Key Features:  Paint-splatter print (unique to each piece)  “Paint palette” velcro patch on sleeve (can be swapped)  Color-blocked waistband and reinforced knees for crawling/painting  Washable, tumble-dry safe",
+  "negative_prompt": "Real children, sci-fi or digital scene, techwear, dark background, studio-gray, cold lighting, formal clothing",
+  "model": "imagen4",
+  "dominant_colors": {
+    "main": "#3C5A6B",
+    "accent": "#E63946"
+  },
+  "overlay": {
+    "text": {
+      "headline": {
+        "text_key": "main_text",
+        "font": "Futura-Bold.ttf",
+        "size": 28,
+        "color": "#E63946",
+        "x": 100,
+        "y": 100
+      },
+      "cta": {
+        "text_key": "cta",
+        "font": "Futura-Regular.ttf",
+        "size": 20,
+        "color": "#3C5A6B",
+        "x": 100,
+        "y": 150
+      }
+    },
+    "logo": {
+      "x": 1400,
+      "y": 1300,
+      "width": 150,
+      "height": 50
+    }
+  }
+}
